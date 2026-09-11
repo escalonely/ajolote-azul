@@ -1,170 +1,170 @@
-## Character Properties
+## Propiedades de los Personajes
 
-- age
-- appearance
-- personality
-- fears
-- strengths
-- weaknesses
-- recurring jokes
-- speech patterns
-- relationships with other characters
+- edad
+- apariencia
+- personalidad
+- miedos
+- fortalezas
+- debilidades
+- chistes recurrentes
+- forma de hablar
+- relaciones con otros personajes
 
-## Main Characters
+## Personajes Principales
 
 ## Ajolote Azul
 
-**Age:** 8 years old.
+**Edad:** 8 años.
 
-**Appearance:** Wears a blue-and-black luchador mask and matching cape over ordinary kid clothes (t-shirt, shorts, worn sneakers). The mask never comes off — not even at home, not even to eat — and nobody in his life makes a big deal of it anymore.
+**Apariencia:** Usa una máscara de luchador azul y negra y una capa a juego sobre ropa normal de niño (playera, shorts, tenis desgastados). Nunca se quita la máscara — ni en casa, ni para comer — y ya nadie en su vida le da importancia a eso.
 
-**Personality:** Energetic, imaginative, brave and extremely enthusiastic. He genuinely believes he is a superhero. Expressive and playful, but sounds like a real child, not an adult imitating a child. He becomes dramatically excited when he thinks he has discovered a mystery.
+**Personalidad:** Enérgico, imaginativo, valiente y sumamente entusiasta. Genuinamente cree que es un superhéroe. Expresivo y juguetón, pero suena como un niño real, no como un adulto imitando a un niño. Se emociona de forma dramática cuando cree haber descubierto un misterio.
 
-**Fears:** Being told he's "too old" for the mask; disappointing Xolo or Abuela; missing an obvious clue in front of others.
+**Miedos:** Que le digan que ya está "muy grande" para la máscara; decepcionar a Xolo o a la Abuela; que se le escape una pista obvia frente a los demás.
 
-**Strengths:** Boundless curiosity, courage, empathy for neighbors in trouble, unshakeable optimism.
+**Fortalezas:** Curiosidad sin límites, valentía, empatía por los vecinos en problemas, optimismo inquebrantable.
 
-**Weaknesses:** Jumps to dramatic conclusions before checking the facts; easily distracted by anything that looks like a "mission"; stubborn once he's decided he's right.
+**Debilidades:** Saca conclusiones dramáticas antes de comprobar los hechos; se distrae fácilmente con cualquier cosa que parezca una "misión"; es terco una vez que decide que tiene la razón.
 
-**Recurring jokes:** Narrates his own actions out loud like a superhero ("¡Ajolote Azul, activando modo detective!"); gives every case an overly dramatic name; insists ordinary events are "una señal."
+**Chistes recurrentes:** Narra sus propias acciones en voz alta como un superhéroe ("¡Ajolote Azul, activando modo detective!"); le pone un nombre exageradamente dramático a cada caso; insiste en que los eventos cotidianos son "una señal."
 
-**Speech patterns:** Natural Mexico City / Chilango Spanish pronunciation. Talks fast when excited, uses dramatic pauses for effect.
+**Forma de hablar:** Pronunciación natural de la Ciudad de México / español chilango. Habla rápido cuando se emociona, usa pausas dramáticas para dar efecto.
 
-**Relationships:** Best friends with Xolo, who he considers his "sidekick" (Xolo would say it's the other way around). Adores Abuela and constantly tries to impress her. Best friend and reluctant partner-in-investigation: Vale.
+**Relaciones:** Mejores amigos con Xolo, a quien considera su "sidekick" (Xolo diría que es al revés). Adora a la Abuela y siempre trata de impresionarla. Mejor amiga y compañera reacia de investigación: Vale.
 
-### Does Ajolote really have superpowers?
+### ¿De verdad tiene superpoderes Ajolote?
 
-- It is never completely confirmed, and this ambiguity is permanent across the whole series (see series-bible.md → Fundamental Rules of the World).
-- Occasionally something happens that makes Xolo think, "Wait... maybe this kid actually can do that." At most one such beat per episode.
+- Nunca se confirma del todo, y esta ambigüedad es permanente a lo largo de toda la serie (ver series-bible.md → Reglas Fundamentales del Mundo).
+- De vez en cuando pasa algo que hace pensar a Xolo: "Espera... tal vez este niño sí puede hacer eso." Como máximo un momento así por episodio.
 
 ## Xolo
 
-**Age:** Unknown/adult (Ajolote insists he's "muy viejo y muy sabio").
+**Edad:** Desconocida/adulto (Ajolote insiste en que es "muy viejo y muy sabio").
 
-**Appearance:** A Xoloitzcuintle (Mexican hairless dog), medium-sized, grey-bronze skin, expressive eyebrows he uses for physical comedy.
+**Apariencia:** Un Xoloitzcuintle (perro mexicano sin pelo), de tamaño mediano, piel gris-bronce, cejas expresivas que usa para su comedia física.
 
-**Personality:** Intelligent, dry and sarcastic, with excellent comic timing. Calm and slightly unimpressed. He loves Ajolote but frequently has to bring him back to reality.
+**Personalidad:** Inteligente, seco y sarcástico, con excelente sentido del tiempo cómico. Tranquilo y algo indiferente. Quiere mucho a Ajolote pero con frecuencia tiene que regresarlo a la realidad.
 
-**Fears:** Vacuum cleaners; that Ajolote will get hurt chasing one of his "cases"; admitting out loud how much he cares.
+**Miedos:** Las aspiradoras; que Ajolote se lastime persiguiendo uno de sus "casos"; admitir en voz alta cuánto le importa.
 
-**Strengths:** Sharp observation, common sense, genuine street smarts about the neighborhood.
+**Fortalezas:** Observación aguda, sentido común, verdadera calle recorrida en el barrio.
 
-**Weaknesses:** Secretly enjoys the adventures more than he lets on; occasionally too proud to admit Ajolote was right.
+**Debilidades:** En secreto disfruta las aventuras más de lo que deja ver; a veces es demasiado orgulloso para admitir que Ajolote tenía razón.
 
-**Recurring jokes:** Deadpan one-liners undercutting Ajolote's dramatics; pretends he "wasn't worried" after every case; keeps a running tally of how many times Ajolote's theories have been wrong.
+**Chistes recurrentes:** Frases secas que desinflan los dramas de Ajolote; finge que "no estaba preocupado" después de cada caso; lleva la cuenta de cuántas veces se ha equivocado Ajolote con sus teorías.
 
-**Speech patterns:** Mexico City street Spanish / slang. Warm underneath the sarcasm.
+**Forma de hablar:** Español callejero de la Ciudad de México / argot. Cálido por debajo del sarcasmo.
 
-**Relationships:** Ajolote's best friend and unofficial minder. Treats Abuela with clear respect and affection. Tolerates Doña Chelo's cat, Michu, at best.
+**Relaciones:** Mejor amigo y cuidador no oficial de Ajolote. Trata a la Abuela con claro respeto y cariño. Tolera al gato de Doña Chelo, Michu, a duras penas.
 
 ## Abuela
 
-**Age:** Late 70s.
+**Edad:** Casi 80 años.
 
-**Appearance:** Always in an apron, often mid-recipe; warm and put-together, never frazzled.
+**Apariencia:** Siempre trae puesto un delantal, casi siempre a medio preparar una receta; cálida y arreglada, nunca se ve agobiada.
 
-**Personality:** Warm, affectionate and confident, with a soft personality. She loves Ajolote deeply but is completely unimpressed by his superhero theatrics.
+**Personalidad:** Cálida, cariñosa y segura de sí misma, con una personalidad suave. Quiere mucho a Ajolote pero no se impresiona en absoluto con sus teatralidades de superhéroe.
 
-**Fears:** Ajolote getting hurt or growing up too fast; her recipes being forgotten.
+**Miedos:** Que Ajolote se lastime o crezca demasiado rápido; que se olviden sus recetas.
 
-**Strengths:** Deep neighborhood knowledge and history, unconditional love, calming presence, excellent cook.
+**Fortalezas:** Conocimiento profundo del barrio y su historia, amor incondicional, presencia tranquilizadora, excelente cocinera.
 
-**Weaknesses:** Occasionally overprotective; can't resist meddling "for his own good."
+**Debilidades:** A veces sobreprotectora; no puede resistirse a meterse "por su propio bien."
 
-**Recurring jokes:** Responds to Ajolote's superhero announcements with total nonchalance ("Qué bueno, mijo, lávate las manos"); always has food ready no matter the size of the "emergency."
+**Chistes recurrentes:** Responde a los anuncios de superhéroe de Ajolote con total indiferencia ("Qué bueno, mijo, lávate las manos"); siempre tiene comida lista sin importar el tamaño de la "emergencia."
 
-**Speech patterns:** Natural conversational Mexican Spanish. Her voice should feel familiar, comforting and grandmotherly.
+**Forma de hablar:** Español mexicano conversacional y natural. Su voz debe sentirse familiar, reconfortante y como de abuela.
 
-**Relationships:** Ajolote's grandmother and guardian. Old friends with Doña Chelo and Don Pepe.
+**Relaciones:** Abuela y tutora de Ajolote. Amiga de toda la vida de Doña Chelo y Don Pepe.
 
 ## Don Pepe
 
-**Age:** Approximately 45–55.
+**Edad:** Entre 45 y 55 años, aproximadamente.
 
-**Appearance:** Runs a fruit-and-juice puesto in the mercado; apron over his clothes, always mid-task.
+**Apariencia:** Lleva un puesto de frutas y jugos en el mercado; siempre con el delantal puesto y a medio hacer algo.
 
-**Personality:** Friendly and lively street-market vendor. Good-natured, humorous, slightly teasing. Energetic without sounding exaggerated.
+**Personalidad:** Vendedor de mercado amigable y animado. De buen corazón, gracioso, un poco burlón. Enérgico sin sonar exagerado.
 
-**Fears:** A bad harvest season; losing regular customers to newer stalls.
+**Miedos:** Una mala temporada de cosecha; perder a sus clientes de siempre por puestos más nuevos.
 
-**Strengths:** Knows everyone and everything happening in the market; generous with both fruit and advice.
+**Fortalezas:** Conoce a todos y todo lo que pasa en el mercado; generoso tanto con la fruta como con los consejos.
 
-**Weaknesses:** Gossips almost as much as Doña Chelo; easily distracted mid-conversation by a new customer.
+**Debilidades:** Chismea casi tanto como Doña Chelo; se distrae fácilmente a media conversación en cuanto llega un nuevo cliente.
 
-**Recurring jokes:** Always tries to give Ajolote a "detective discount"; teases him about the mask ("¿Y hoy contra quién luchas, campeón?").
+**Chistes recurrentes:** Siempre intenta darle a Ajolote un "descuento de detective"; lo molesta por la máscara ("¿Y hoy contra quién luchas, campeón?").
 
-**Speech patterns:** Natural Chilango Spanish.
+**Forma de hablar:** Español chilango natural.
 
-**Relationships:** Fond of Ajolote and Xolo; friendly rival banter with Doña Chelo; longtime friend of Abuela.
+**Relaciones:** Le tiene cariño a Ajolote y a Xolo; bromas de rivalidad amistosa con Doña Chelo; amigo de toda la vida de la Abuela.
 
 ## Narrador
 
-**Age:** Voice reads as male 35–50.
+**Edad:** Su voz suena de entre 35 y 50 años.
 
-**Personality:** Warm, intimate and expressive children's storyteller. Cinematic when describing the setting, playful during comedy, calm and reassuring during narration. Never overly theatrical.
+**Personalidad:** Narrador infantil cálido, íntimo y expresivo. Cinematográfico al describir el entorno, juguetón en la comedia, tranquilo y reconfortante al narrar. Nunca demasiado teatral.
 
-**Speech patterns:** Clean Mexico City pronunciation.
+**Forma de hablar:** Pronunciación limpia de la Ciudad de México.
 
-**Relationships:** Outside the story — never a character within it, but occasionally acknowledges the audience directly.
+**Relaciones:** Está fuera de la historia — nunca es un personaje dentro de ella, pero de vez en cuando se dirige directamente a la audiencia.
 
-## Secondary / Recurring Characters
+## Personajes Secundarios / Recurrentes
 
 ## Vale (Valentina Reyes)
 
-**Age:** 8, Ajolote's next-door neighbor and best friend.
+**Edad:** 8 años, vecina de junto y mejor amiga de Ajolote.
 
-**Appearance:** No costume — practical clothes, always carries a small notebook for writing down real clues.
+**Apariencia:** Sin disfraz — ropa práctica, siempre trae consigo una libretita para anotar pistas reales.
 
-**Personality:** Practical, skeptical, sharp-eyed and loyal. Humors Ajolote's superhero persona while rolling her eyes, but always shows up when it matters.
+**Personalidad:** Práctica, escéptica, observadora y leal. Le sigue el juego a la persona de superhéroe de Ajolote mientras pone los ojos en blanco, pero siempre aparece cuando de verdad importa.
 
-**Fears:** Being wrong in front of others; that one day Ajolote will get hurt believing too hard.
+**Miedos:** Equivocarse frente a los demás; que algún día Ajolote se lastime por creer demasiado.
 
-**Strengths:** Logical thinking, notices details Ajolote misses, keeps the group grounded.
+**Fortalezas:** Pensamiento lógico, nota detalles que a Ajolote se le escapan, mantiene al grupo con los pies en la tierra.
 
-**Weaknesses:** Sometimes too quick to dismiss a real mystery as "nothing"; overly cautious.
+**Debilidades:** A veces descarta demasiado rápido un misterio real como "nada"; demasiado precavida.
 
-**Recurring jokes:** Keeps a far more organized "notebook of clues" than Ajolote's chaotic theories; calls him by his real name when she wants him to be serious.
+**Chistes recurrentes:** Lleva una "libreta de pistas" mucho más organizada que las teorías caóticas de Ajolote; lo llama por su nombre real cuando quiere que se ponga serio.
 
-**Speech patterns:** Straightforward Chilango Spanish, less dramatic than Ajolote's.
+**Forma de hablar:** Español chilango directo, menos dramático que el de Ajolote.
 
-**Relationships:** Secretly believes in Ajolote more than she admits; is the group's voice of reason alongside Xolo.
+**Relaciones:** En secreto cree en Ajolote más de lo que admite; es la voz de la razón del grupo junto con Xolo.
 
 ## Doña Chelo
 
-**Age:** 60s–70s, neighbor in the same vecindad.
+**Edad:** Entre 60 y 70 años, vecina de la misma vecindad.
 
-**Appearance:** Rarely seen without her cat, Michu, and a chair set up right outside her door to watch the street.
+**Apariencia:** Casi nunca se le ve sin su gato, Michu, y una silla que instala justo afuera de su puerta para vigilar la calle.
 
-**Personality:** Chatty, dramatic, loves to exaggerate a good story. The self-appointed "ojo de la cuadra" (eyes of the block) who knows everyone's business.
+**Personalidad:** Platicadora, dramática, le encanta exagerar una buena historia. Se autonombra "el ojo de la cuadra," pues conoce los asuntos de todo el mundo.
 
-**Fears:** Missing out on neighborhood news; being left out of the "investigation."
+**Miedos:** Perderse de las noticias del barrio; quedar fuera de la "investigación."
 
-**Strengths:** Knows everything that happens on the block — an invaluable (if unreliable) source of leads.
+**Fortalezas:** Sabe todo lo que pasa en la cuadra — una fuente invaluable (aunque poco confiable) de pistas.
 
-**Weaknesses:** Half of what she says is exaggerated or secondhand; loves a good rumor more than the truth.
+**Debilidades:** La mitad de lo que dice está exagerado o es de segunda mano; le gusta más un buen chisme que la verdad.
 
-**Recurring jokes:** Every tip comes wrapped in an unrelated, overly long story; insists Michu "sabe cosas" (the cat knows things).
+**Chistes recurrentes:** Cada pista viene envuelta en una historia larguísima y sin relación; insiste en que Michu "sabe cosas" (el gato sabe cosas).
 
-**Speech patterns:** Natural Mexican Spanish, animated and conversational.
+**Forma de hablar:** Español mexicano natural, animado y conversacional.
 
-**Relationships:** Old friend of Abuela and Don Pepe; source of both real leads and delightful red herrings for Ajolote's cases.
+**Relaciones:** Amiga de toda la vida de la Abuela y de Don Pepe; fuente tanto de pistas reales como de deliciosas pistas falsas para los casos de Ajolote.
 
 ## Kevin "El Presumido"
 
-**Age:** 10, a couple of years older than Ajolote.
+**Edad:** 10 años, un par de años mayor que Ajolote.
 
-**Appearance:** Always dressed like he thinks he's cooler than everyone else.
+**Apariencia:** Siempre vestido como si se creyera más cool que todos los demás.
 
-**Personality:** Boastful, a little arrogant, likes to tease Ajolote about the mask and the "superhero stuff" — but not cruel, and never truly malicious.
+**Personalidad:** Presumido, un poco arrogante, le gusta burlarse de la máscara de Ajolote y de "todo el numerito de superhéroe" — pero no es cruel, y nunca es verdaderamente malicioso.
 
-**Fears:** Being embarrassed in front of other kids; secretly, being wrong about Ajolote.
+**Miedos:** Hacer el ridículo frente a otros niños; en secreto, estar equivocado sobre Ajolote.
 
-**Strengths:** Confident, occasionally has genuinely useful knowledge or connections he shows off.
+**Fortalezas:** Seguro de sí mismo, a veces tiene conocimientos o contactos genuinamente útiles que le gusta presumir.
 
-**Weaknesses:** Pride gets in the way of admitting when he's impressed or when he needs help.
+**Debilidades:** El orgullo le impide admitir cuando algo le impresiona o cuando necesita ayuda.
 
-**Recurring jokes:** Shows up to mock Ajolote's latest "case," ends up grudgingly helping anyway, then acts like it was his idea all along.
+**Chistes recurrentes:** Aparece para burlarse del último "caso" de Ajolote, termina ayudando a regañadientes, y después actúa como si hubiera sido idea suya desde el principio.
 
-**Speech patterns:** Chilango slang used to sound cool and older than he is.
+**Forma de hablar:** Argot chilango que usa para sonar más cool y mayor de lo que es.
 
-**Relationships:** Occasional mild antagonist/rival to Ajolote — appears occasionally, never in a majority of episodes, and never poses real danger (per series-bible.md tone rules).
+**Relaciones:** Antagonista/rival ocasional y leve de Ajolote — aparece de vez en cuando, nunca en la mayoría de los episodios, y nunca representa un peligro real (según las reglas de tono de series-bible.md).

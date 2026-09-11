@@ -1,77 +1,77 @@
-## Purpose
+## Propósito
 
-This document defines how each character's voice should sound and be configured for AI text-to-speech generation (e.g. ElevenLabs), plus the script conventions used across all episodes to direct delivery, emotion, and pacing. `characters.md` defines personality; this file defines how that personality is realized in generated audio.
+Este documento define cómo debe sonar y configurarse la voz de cada personaje para la generación de audio mediante IA (por ejemplo, ElevenLabs), además de las convenciones de guion que se usan en todos los episodios para dirigir la interpretación, la emoción y el ritmo. `characters.md` define la personalidad; este archivo define cómo esa personalidad se traduce en el audio generado.
 
-## Voice Design Principles
+## Principios de Diseño de Voz
 
-- Every character must be instantly recognizable by voice alone, without hearing a name.
-- Mexican Spanish (Mexico City accent) throughout — no other national or regional accent unless specified.
-- Prioritize a natural, human, non-"synthetic" performance over technical precision. If a setting choice makes a voice sound flatter but more "correct," prefer the one that sounds alive.
-- Re-evaluate voice/config choices against the Review Checklist (below) after every batch of episodes, not just once.
+- Cada personaje debe ser reconocible al instante solo por la voz, sin necesidad de escuchar su nombre.
+- Español mexicano (acento de la Ciudad de México) en todo momento — ningún otro acento nacional o regional, salvo que se indique lo contrario.
+- Priorizar una interpretación natural, humana y no "sintética" por encima de la precisión técnica. Si un ajuste hace que una voz suene más plana pero más "correcta," prefiere la opción que suene más viva.
+- Reevaluar las decisiones de voz/configuración con la Lista de Revisión (más abajo) después de cada tanda de episodios, no solo una vez.
 
-## Per-Character Voice Specs
+## Especificaciones de Voz por Personaje
 
-Each entry lists the target voice profile and suggested starting values for TTS voice settings. Settings are starting points — tune per engine/voice and re-audition after script changes.
+Cada entrada enumera el perfil de voz objetivo y los valores iniciales sugeridos para la configuración de voz de TTS. Los valores son puntos de partida — ajústalos según el motor/voz y vuelve a probarlos después de cambios en el guion.
 
 ### Ajolote Azul
-- **Voice profile:** Real Mexican boy, ~8 years old. Bright, forward, unpolished — not a stylized "cartoon kid" voice.
-- **Suggested settings:** Lower stability (more expressive/variable delivery, ~25-35%) to capture his excitement swings; moderate similarity boost (~70-80%); style exaggeration on the higher end for his dramatic moments.
-- **Delivery notes:** Fast when excited, with a clear "wind-up" before dramatic declarations. Should sound almost breathless at emotional peaks, then settle quickly.
+- **Perfil de voz:** Niño mexicano real, de unos 8 años. Brillante, directo, sin pulir — no una voz estilizada de "niño de caricatura."
+- **Configuración sugerida:** Estabilidad baja (interpretación más expresiva/variable, ~25-35%) para capturar sus subidones de emoción; impulso de similitud moderado (~70-80%); exageración de estilo alta en sus momentos dramáticos.
+- **Notas de interpretación:** Rápido cuando se emociona, con un claro "impulso" antes de las declaraciones dramáticas. Debe sonar casi sin aliento en los picos emocionales, y calmarse rápido después.
 
 ### Xolo
-- **Voice profile:** Adult Mexican male, dry and deadpan, warm underneath.
-- **Suggested settings:** Higher stability (~50-60%) to keep the deadpan delivery consistent; moderate-low style exaggeration (his humor comes from restraint, not big swings).
-- **Delivery notes:** Comic timing depends on pacing — leave a beat (short pause) before or after punchlines rather than rushing through them.
+- **Perfil de voz:** Hombre mexicano adulto, seco y sin emoción aparente, cálido por debajo.
+- **Configuración sugerida:** Estabilidad alta (~50-60%) para mantener consistente la entrega seria; exageración de estilo baja o moderada (su humor viene de la contención, no de grandes cambios).
+- **Notas de interpretación:** El timing cómico depende del ritmo — deja un compás (pausa breve) antes o después de los remates en lugar de apresurarlos.
 
 ### Abuela
-- **Voice profile:** Mexican woman, late 60s/70s, warm and grandmotherly, unhurried.
-- **Suggested settings:** High stability (~60-70%) for a steady, comforting cadence; moderate similarity boost.
-- **Delivery notes:** Never rushed, even when mildly scolding. Warmth should read even through her most "unimpressed" lines.
+- **Perfil de voz:** Mujer mexicana, de casi 70 u 80 años, cálida y como de abuela, sin prisa.
+- **Configuración sugerida:** Estabilidad alta (~60-70%) para una cadencia estable y reconfortante; impulso de similitud moderado.
+- **Notas de interpretación:** Nunca apresurada, incluso cuando regaña levemente. La calidez debe notarse incluso en sus líneas más "indiferentes."
 
 ### Don Pepe
-- **Voice profile:** Mexican man, 45-55, market-vendor energy — lively but not cartoonish.
-- **Suggested settings:** Moderate stability (~40-50%); moderate-high style for his teasing/energetic delivery.
-- **Delivery notes:** Slightly sing-song market-vendor cadence on his sales lines; calmer/warmer on personal lines.
+- **Perfil de voz:** Hombre mexicano, de 45 a 55 años, con energía de vendedor de mercado — animado pero no caricaturesco.
+- **Configuración sugerida:** Estabilidad moderada (~40-50%); estilo moderado-alto para su interpretación bromista y enérgica.
+- **Notas de interpretación:** Cadencia ligeramente cantadita de vendedor de mercado en sus líneas de venta; más tranquilo y cálido en las líneas personales.
 
 ### Narrador
-- **Voice profile:** Mexican man, 35-50, warm intimate storyteller.
-- **Suggested settings:** High stability (~65-75%) for consistency across long narration passages; low-moderate style (should stay grounded, not theatrical).
-- **Delivery notes:** Cinematic pacing on scene-setting lines, quicker and lighter on comedic beats, calm on reassurance/transitions.
+- **Perfil de voz:** Hombre mexicano, de 35 a 50 años, narrador cálido e íntimo.
+- **Configuración sugerida:** Estabilidad alta (~65-75%) para mantener consistencia en pasajes largos de narración; estilo bajo-moderado (debe mantenerse con los pies en la tierra, no teatral).
+- **Notas de interpretación:** Ritmo cinematográfico en las líneas que describen el entorno, más rápido y ligero en los momentos cómicos, tranquilo en las transiciones y momentos de consuelo.
 
 ### Vale
-- **Voice profile:** Mexican girl, ~8, clear and grounded, less dramatic than Ajolote.
-- **Suggested settings:** Higher stability than Ajolote (~45-55%) to contrast his volatility.
-- **Delivery notes:** Flat/deadpan delivery when skeptical; genuine warmth breaks through rarely, which should make those moments stand out.
+- **Perfil de voz:** Niña mexicana, de unos 8 años, clara y con los pies en la tierra, menos dramática que Ajolote.
+- **Configuración sugerida:** Estabilidad más alta que la de Ajolote (~45-55%) para contrastar con su volatilidad.
+- **Notas de interpretación:** Entrega plana/indiferente cuando está escéptica; la calidez genuina aparece pocas veces, lo cual debe hacer que esos momentos destaquen.
 
 ### Doña Chelo
-- **Voice profile:** Mexican woman, 60s-70s, animated and chatty.
-- **Suggested settings:** Lower stability (~30-40%) to capture her dramatic storytelling swings.
-- **Delivery notes:** Runs long sentences together without a breath, then a for-effect pause before the "juicy" detail.
+- **Perfil de voz:** Mujer mexicana, de 60 a 70 años, animada y platicadora.
+- **Configuración sugerida:** Estabilidad baja (~30-40%) para capturar sus cambios dramáticos al contar historias.
+- **Notas de interpretación:** Encadena frases largas sin tomar aire, y luego hace una pausa para dar efecto antes del detalle "jugoso."
 
 ### Kevin "El Presumido"
-- **Voice profile:** Mexican boy, ~10, trying to sound older/cooler than he is.
-- **Suggested settings:** Moderate stability (~40-50%); style leaning toward exaggerated bravado.
-- **Delivery notes:** Performative confidence that occasionally cracks — brief, genuine moments should sound noticeably less performed.
+- **Perfil de voz:** Niño mexicano, de unos 10 años, tratando de sonar mayor y más cool de lo que es.
+- **Configuración sugerida:** Estabilidad moderada (~40-50%); estilo inclinado hacia la bravuconería exagerada.
+- **Notas de interpretación:** Confianza actuada que a veces se resquebraja — los momentos breves y genuinos deben sonar notablemente menos actuados.
 
-## Script Conventions for TTS
+## Convenciones de Guion para TTS
 
-These conventions are used consistently in every episode script so voice generation stays predictable across the whole series.
+Estas convenciones se usan de manera consistente en todos los episodios para que la generación de voz sea predecible a lo largo de toda la serie.
 
-- **Speaker labels:** Each line is prefixed with the character name in caps followed by a colon, e.g. `AJOLOTE:`. One character per line/block.
-- **Emotion/delivery tags:** Bracketed tags before a line indicate delivery, e.g. `[excited]`, `[whispering]`, `[sarcastic]`, `[out of breath]`. Keep to one tag per line; don't stack more than two.
-- **Pauses:** Use `...` for a short natural pause within a line. For a longer, deliberate pause between lines, use an explicit `[pause]` marker on its own line. Avoid relying on line breaks alone to signal pacing.
-- **Emphasis:** Wrap an emphasized word in `*asterisks*` in the script (for the human reviewer/voice director); convert to whatever emphasis syntax the chosen TTS engine supports at generation time.
-- **Non-speech sounds:** Sound effects and non-verbal character sounds (laughs, sighs, gasps) are written as their own bracketed cue on its own line, e.g. `[laughs]`, `[gasps]`, not embedded mid-sentence.
-- **Engine-specific syntax:** Exact supported tag/pause syntax should be verified against the current ElevenLabs (or chosen engine's) documentation before the first production batch, since supported tags evolve. This file defines the *authoring convention*, which can be mapped to whatever the engine actually supports at generation time.
+- **Etiquetas de hablante:** Cada línea lleva como prefijo el nombre del personaje en mayúsculas seguido de dos puntos, por ejemplo `AJOLOTE:`. Un personaje por línea/bloque.
+- **Etiquetas de emoción/interpretación:** Etiquetas entre corchetes antes de una línea indican la interpretación, por ejemplo `[excited]`, `[whispering]`, `[sarcastic]`, `[out of breath]`. Usa solo una etiqueta por línea; no combines más de dos.
+- **Pausas:** Usa `...` para una pausa breve y natural dentro de una línea. Para una pausa más larga y deliberada entre líneas, usa un marcador explícito `[pause]` en su propia línea. Evita depender solo de los saltos de línea para indicar el ritmo.
+- **Énfasis:** Envuelve una palabra enfatizada entre `*asteriscos*` en el guion (para el revisor humano/director de voz); conviértelo a la sintaxis de énfasis que soporte el motor de TTS elegido al momento de generar el audio.
+- **Sonidos no verbales:** Los efectos de sonido y los sonidos no verbales del personaje (risas, suspiros, jadeos) se escriben como su propia indicación entre corchetes en su propia línea, por ejemplo `[laughs]`, `[gasps]`, no incrustados a mitad de una frase.
+- **Sintaxis específica del motor:** La sintaxis exacta de etiquetas/pausas soportada debe verificarse contra la documentación actual de ElevenLabs (o el motor elegido) antes de la primera tanda de producción, ya que las etiquetas soportadas cambian con el tiempo. Este archivo define la *convención de autoría*, que puede traducirse a lo que el motor realmente soporte al momento de generar el audio.
 
-## Review Checklist
+## Lista de Revisión
 
-- Can I recognize each character immediately without hearing their name?
-- Does Ajolote sound like a real kid, not an adult imitating a child?
-- Does Xolo sound sufficiently different from Ajolote, with enough personality that his dry lines land as funny?
-- Does Abuela sound genuinely Mexican and grandmotherly, rather than "generic Spanish grandmother"?
-- Does the Chilango dialogue feel natural rather than forced?
-- Are the emotional performances convincing?
-- Does the pacing work for children (not too fast, not condescending)?
-- Are there too many sound effects/tags cluttering the performance?
-- Do all the voices sound like they belong in the same world?
+- ¿Puedo reconocer a cada personaje de inmediato sin escuchar su nombre?
+- ¿Suena Ajolote como un niño real y no como un adulto imitando a un niño?
+- ¿Suena Xolo lo bastante distinto de Ajolote, con suficiente personalidad para que sus líneas secas resulten graciosas?
+- ¿Suena la Abuela genuinamente mexicana y como una abuela, en lugar de una "abuela española genérica"?
+- ¿Se siente natural el diálogo chilango, en lugar de forzado?
+- ¿Son convincentes las interpretaciones emocionales?
+- ¿Funciona el ritmo para niños (ni muy rápido, ni condescendiente)?
+- ¿Hay demasiados efectos de sonido/etiquetas que saturan la interpretación?
+- ¿Suenan todas las voces como si pertenecieran al mismo mundo?

@@ -1,81 +1,81 @@
-## Main Tasks for the AI Model 
+## Tareas Principales para el Modelo de IA
 
-- Invent genuinely entertaining plots
-- Write believable children's dialogue
-- Handle Mexican culture and Chilango Spanish authentically
-- Maintain continuity across a whole series
+- Inventar tramas genuinamente entretenidas
+- Escribir diálogos infantiles creíbles
+- Manejar la cultura mexicana y el español chilango de forma auténtica
+- Mantener la continuidad a lo largo de toda la serie
 
-## Basic Premise
+## Premisa Básica
 
-Ajolote Azul is an 8-year-old boy in contemporary Mexico City who wears a homemade luchador mask and a blue-and-black cape, and genuinely believes he is a superhero. With the deadpan help of his talking, hairless dog Xolo, he investigates neighborhood mysteries — some small, some strange — while his grandma keeps them fed and (mostly) grounded. Each episode is a self-contained 5-10 minute mystery set against real Mexico City neighborhoods, streets, and traditions.
+Ajolote Azul es un niño de 8 años en la Ciudad de México contemporánea que usa una máscara de luchador casera y una capa azul y negra, y que genuinamente cree que es un superhéroe. Con la ayuda, siempre con humor seco, de su perro parlante y pelón Xolo, investiga misterios del barrio — algunos pequeños, otros extraños — mientras su abuela los mantiene bien alimentados y (casi siempre) con los pies en la tierra. Cada episodio es un misterio autoconclusivo de 5 a 10 minutos, ambientado en barrios, calles y tradiciones reales de la Ciudad de México.
 
-## Target Audience
+## Público Objetivo
 
-- Primary: children ages 5-9.
-- Secondary: parents/caregivers listening along — some jokes and warmth should land for adults too, without ever becoming inappropriate for kids.
-- Mexican and Latin American diaspora families in particular, who should hear their culture and slang represented authentically rather than generically.
+- Principal: niños de 5 a 9 años.
+- Secundario: papás y cuidadores que escuchan junto con ellos — algunos chistes y momentos de calidez también deben funcionar para los adultos, sin volverse nunca inapropiados para los niños.
+- Familias mexicanas y de la diáspora latinoamericana en particular, que deben escuchar su cultura y su forma de hablar representadas de manera auténtica y no genérica.
 
-## Fundamental Concept
+## Concepto Fundamental
 
-What if a kid's superhero fantasy and a real neighborhood mystery collided — and nobody, not even the universe, is fully sure which one is real?
+¿Qué pasaría si la fantasía de superhéroe de un niño y un misterio real del barrio chocaran — y nadie, ni siquiera el universo, estuviera del todo seguro de cuál de los dos es real?
 
-## Fundamental Rules of the World
+## Reglas Fundamentales del Mundo
 
-- **Ajolote's powers are never confirmed or denied.** This ambiguity is permanent across the entire series, not just early episodes. At most one small unexplained beat per episode can make Xolo pause and think "wait... maybe." He never fully admits it might be real. Every mystery must also be solvable through ordinary means (observation, courage, kindness, knowledge) regardless of whether Ajolote's "powers" get the credit.
-- **Mexico City is real and consistent.** Real neighborhoods, landmarks, and cultural practices are used accurately. Invented shops or minor characters may be placed within that real geography, but must not contradict it.
-- **No real danger or violence.** Stakes are emotional, social, or mysterious — never physical peril. "Fighting crime" means solving mysteries and righting small wrongs, not violent confrontation.
-- **Antagonists are case-by-case.** Most mysteries resolve as misunderstandings, accidents, or natural/cultural explanations. Occasionally a mild, low-stakes antagonist (a rival, a grump, a trickster) appears, but is never truly dangerous, never irredeemable, and never the majority pattern across the series.
-- **Relationships and running jokes persist.** Continuity carries forward from episode to episode unless a specific episode explicitly changes something.
+- **Los poderes de Ajolote nunca se confirman ni se niegan.** Esta ambigüedad es permanente a lo largo de toda la serie, no solo en los primeros episodios. Como máximo, un pequeño momento inexplicable por episodio puede hacer que Xolo se detenga a pensar "espera... tal vez." Él nunca admite del todo que podría ser real. Además, todo misterio debe poder resolverse por medios ordinarios (observación, valentía, bondad, conocimiento), sin importar si los "poderes" de Ajolote se llevan el crédito o no.
+- **La Ciudad de México es real y consistente.** Los barrios, lugares emblemáticos y prácticas culturales reales se usan con precisión. Se pueden inventar tiendas o personajes secundarios dentro de esa geografía real, pero nunca pueden contradecirla.
+- **No hay peligro ni violencia real.** Lo que está en juego es emocional, social o misterioso — nunca peligro físico. "Luchar contra el crimen" significa resolver misterios y enderezar pequeñas injusticias, no enfrentamientos violentos.
+- **Los antagonistas se deciden caso por caso.** La mayoría de los misterios se resuelven como malentendidos, accidentes o explicaciones naturales/culturales. De vez en cuando aparece un antagonista leve y de bajo riesgo (un rival, un gruñón, un bromista), pero nunca es verdaderamente peligroso, nunca es irredimible, y nunca es el patrón predominante de la serie.
+- **Las relaciones y los chistes recurrentes permanecen.** La continuidad se mantiene de episodio a episodio, a menos que un episodio específico cambie algo de forma explícita.
 
-## Storytelling Philosophy
+## Filosofía Narrativa
 
-Each episode is a self-contained mystery-of-the-week driven by curiosity: a concrete, intriguing question is posed within the first minute or two, and resolved by the end. Plot always comes first — education is smuggled in through what the investigation naturally uncovers (see Educational Philosophy below). Humor runs throughout, and there is usually at least one genuine emotional beat.
+Cada episodio es un misterio autoconclusivo de "caso de la semana" impulsado por la curiosidad: se plantea una pregunta concreta e intrigante en el primer minuto o dos, y se resuelve al final. La trama siempre va primero — la educación se cuela a través de lo que la investigación descubre de forma natural (ver Filosofía Educativa más abajo). El humor está presente en todo momento, y por lo general hay al menos un momento emocional genuino.
 
-## Tone
+## Tono
 
-Warm, funny, a little silly, occasionally cozy or heartfelt, always safe. Comedy comes largely from the contrast between Ajolote's earnest, dramatic belief in his own heroism and Xolo's dry, unimpressed commentary. Never mean-spirited, never scary in a real sense — tension comes from mystery and curiosity, not fear.
+Cálido, divertido, un poco chistoso, a veces entrañable o conmovedor, siempre seguro. La comedia surge en buena parte del contraste entre la creencia sincera y dramática de Ajolote en su propio heroísmo y los comentarios secos y nada impresionados de Xolo. Nunca cruel, nunca da miedo de verdad — la tensión viene del misterio y la curiosidad, no del miedo.
 
-## Educational Philosophy
+## Filosofía Educativa
 
-We shouldn't have: "Today's lesson is: DON'T LITTER!"
-Instead, the plot itself teaches something. For example:
+No deberíamos tener: "La lección de hoy es: ¡NO TIRES BASURA!"
+En cambio, la trama misma debe enseñar algo. Por ejemplo:
 
-Mystery: Someone has been stealing water from a neighborhood garden.
-The kids investigate.
+Misterio: alguien ha estado robando agua de un jardín del vecindario.
+Los niños investigan.
 
-Along the way they discover:
-- why Mexico City has water challenges
-- how water gets to homes
-- why leaking pipes matter
-- how people historically managed water
+En el camino descubren:
+- por qué la Ciudad de México tiene problemas de agua
+- cómo llega el agua a las casas
+- por qué importan las fugas en las tuberías
+- cómo se manejaba el agua históricamente
 
-But the child listening should primarily think:
-"Holy crap, who's stealing the water?"
-—not:
-"I am currently receiving an educational lesson."
+Pero el niño que escucha debe pensar principalmente:
+"¡No manches, quién se está robando el agua!"
+— no:
+"Estoy recibiendo una lección educativa."
 
-## Educational Themes
+## Temas Educativos
 
-- Community and civic values (helping neighbors, honesty, curiosity, teamwork).
-- Mexican history and traditions (Día de Muertos, lucha libre, the Aztecs/Mexica, local myths).
-- Urban ecology and infrastructure (water systems, the Metro, chinampas).
-- Food and family traditions (markets, home cooking, recipes passed down).
-- Geography and the natural environment (volcanoes, canals, local animals).
+- Valores comunitarios y cívicos (ayudar a los vecinos, honestidad, curiosidad, trabajo en equipo).
+- Historia y tradiciones mexicanas (Día de Muertos, lucha libre, los aztecas/mexicas, mitos locales).
+- Ecología urbana e infraestructura (sistemas de agua, el Metro, chinampas).
+- Comida y tradiciones familiares (mercados, comida casera, recetas heredadas).
+- Geografía y entorno natural (volcanes, canales, animales locales).
 
-## Things we absolutely should/shouldn't do
+## Cosas que definitivamente debemos/no debemos hacer
 
-**Should:**
-- Use Chilango slang authentically and in moderation -- enough to feel real, never so much it becomes a glossary dump.
-- Research cultural references rather than relying on stereotypes.
-- Keep each character's voice and speech pattern consistent episode to episode.
-- Keep humor and stakes age-appropriate for 5-9 year olds.
+**Debemos:**
+- Usar el argot chilango de forma auténtica y con moderación — lo suficiente para sonar real, nunca tanto que se sienta como un glosario.
+- Investigar las referencias culturales en lugar de apoyarnos en estereotipos.
+- Mantener la voz y la forma de hablar de cada personaje consistentes de episodio a episodio.
+- Mantener el humor y lo que está en juego apropiado para niños de 5 a 9 años.
 
-**Shouldn't:**
-- Never confirm or deny Ajolote's powers outright.
-- Never introduce real violence, weapons, or dangerous stakes.
-- Never state the educational lesson out loud or make it feel like a PSA.
-- Never use stereotypical or caricatured portrayals of Mexican people or culture.
-- Never overload a script with slang to the point it feels unnatural or hard to follow.
+**No debemos:**
+- Nunca confirmar ni negar los poderes de Ajolote de forma explícita.
+- Nunca incluir violencia real, armas o peligro genuino.
+- Nunca decir la lección educativa en voz alta ni hacer que se sienta como un anuncio de servicio público.
+- Nunca usar representaciones estereotipadas o caricaturizadas de las personas o la cultura mexicana.
+- Nunca sobrecargar un guion de argot al punto de que se sienta forzado o difícil de seguir.
 
 
 

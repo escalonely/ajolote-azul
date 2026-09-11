@@ -1,9 +1,9 @@
-## Language Rules
+## Reglas del Lenguaje
 
-- Dialogue is genuinely Mexican, rather than sprinkling a few stereotypical words into otherwise neutral Spanish.
-- Not every character speaks the same way.
+- Los diálogos son genuinamente mexicanos, en lugar de espolvorear unas cuantas palabras estereotipadas sobre un español neutro.
+- No todos los personajes hablan de la misma manera.
 
-## Chilango expressions
+## Expresiones chilangas
 
 - órale
 - chido
