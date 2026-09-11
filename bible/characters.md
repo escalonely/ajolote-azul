@@ -1,16 +1,4 @@
-## Propiedades de los Personajes
-
-- edad
-- apariencia
-- personalidad
-- miedos
-- fortalezas
-- debilidades
-- chistes recurrentes
-- forma de hablar
-- relaciones con otros personajes
-
-## Personajes Principales
+# Personajes Principales
 
 ## Ajolote Azul
 
@@ -77,26 +65,6 @@
 
 **Relaciones:** Abuela y tutora de Ajolote. Amiga de toda la vida de Doña Chelo y Don Pepe.
 
-## Don Pepe
-
-**Edad:** Entre 45 y 55 años, aproximadamente.
-
-**Apariencia:** Lleva un puesto de frutas y jugos en el mercado; siempre con el delantal puesto y a medio hacer algo.
-
-**Personalidad:** Vendedor de mercado amigable y animado. De buen corazón, gracioso, un poco burlón. Enérgico sin sonar exagerado.
-
-**Miedos:** Una mala temporada de cosecha; perder a sus clientes de siempre por puestos más nuevos.
-
-**Fortalezas:** Conoce a todos y todo lo que pasa en el mercado; generoso tanto con la fruta como con los consejos.
-
-**Debilidades:** Chismea casi tanto como Doña Chelo; se distrae fácilmente a media conversación en cuanto llega un nuevo cliente.
-
-**Chistes recurrentes:** Siempre intenta darle a Ajolote un "descuento de detective"; lo molesta por la máscara ("¿Y hoy contra quién luchas, campeón?").
-
-**Forma de hablar:** Español chilango natural.
-
-**Relaciones:** Le tiene cariño a Ajolote y a Xolo; bromas de rivalidad amistosa con Doña Chelo; amigo de toda la vida de la Abuela.
-
 ## Narrador
 
 **Edad:** Su voz suena de entre 35 y 50 años.
@@ -107,7 +75,9 @@
 
 **Relaciones:** Está fuera de la historia — nunca es un personaje dentro de ella, pero de vez en cuando se dirige directamente a la audiencia.
 
-## Personajes Secundarios / Recurrentes
+---
+
+# Personajes Secundarios / Recurrentes
 
 ## Vale (Valentina Reyes)
 
@@ -128,6 +98,27 @@
 **Forma de hablar:** Español chilango directo, menos dramático que el de Ajolote.
 
 **Relaciones:** En secreto cree en Ajolote más de lo que admite; es la voz de la razón del grupo junto con Xolo.
+
+## Don Pepe
+
+**Edad:** Entre 45 y 55 años, aproximadamente.
+
+**Apariencia:** Lleva un puesto de frutas y jugos en el mercado; siempre con el delantal puesto y a medio hacer algo.
+
+**Personalidad:** Vendedor de mercado amigable y animado. De buen corazón, gracioso, un poco burlón. Enérgico sin sonar exagerado.
+
+**Miedos:** Una mala temporada de cosecha; perder a sus clientes de siempre por puestos más nuevos.
+
+**Fortalezas:** Conoce a todos y todo lo que pasa en el mercado; generoso tanto con la fruta como con los consejos.
+
+**Debilidades:** Chismea casi tanto como Doña Chelo; se distrae fácilmente a media conversación en cuanto llega un nuevo cliente.
+
+**Chistes recurrentes:** Siempre intenta darle a Ajolote un "descuento de detective"; lo molesta por la máscara ("¿Y hoy contra quién luchas, campeón?").
+
+**Forma de hablar:** Español chilango natural.
+
+**Relaciones:** Le tiene cariño a Ajolote y a Xolo; bromas de rivalidad amistosa con Doña Chelo; amigo de toda la vida de la Abuela.
+
 
 ## Doña Chelo
 

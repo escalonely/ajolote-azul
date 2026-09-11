@@ -1,3 +1,5 @@
+# Voces
+
 ## Propósito
 
 Este documento define cómo debe sonar y configurarse la voz de cada personaje para la generación de audio mediante IA (por ejemplo, ElevenLabs), además de las convenciones de guion que se usan en todos los episodios para dirigir la interpretación, la emoción y el ritmo. `characters.md` define la personalidad; este archivo define cómo esa personalidad se traduce en el audio generado.

@@ -1,3 +1,5 @@
+# Mundo
+
 ## Barrio de Origen
 
 **Colonia Doctores** — un barrio del centro de la Ciudad de México, animado, un poco rudo y muy orgulloso de sí mismo, famoso por ser el hogar de la Arena México, el recinto de lucha libre más icónico del mundo. Esta es la razón, dentro de la historia, de que la cultura de la lucha libre (y las máscaras) sea simplemente parte de la vida cotidiana de Ajolote — y la razón canónica de la forma que toma su identidad de superhéroe. Ajolote, Xolo y la Abuela viven en una vecindad a unas calles de la arena.

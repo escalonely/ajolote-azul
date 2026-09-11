@@ -1,3 +1,5 @@
+# Biblia de la Serie
+
 ## Tareas Principales para el Modelo de IA
 
 - Inventar tramas genuinamente entretenidas
@@ -76,9 +78,3 @@ Pero el niño que escucha debe pensar principalmente:
 - Nunca decir la lección educativa en voz alta ni hacer que se sienta como un anuncio de servicio público.
 - Nunca usar representaciones estereotipadas o caricaturizadas de las personas o la cultura mexicana.
 - Nunca sobrecargar un guion de argot al punto de que se sienta forzado o difícil de seguir.
-
-
-
-
-
-
