@@ -1,5 +1,7 @@
 # Ajolote Azul
 
+![Ajolote Azul](images/AjoloteAzulBanner01.png)
+
 Una serie de audiolibros infantiles ambientada en la Ciudad de México contemporánea, escrita y narrada en español.
 
 Ajolote Azul sigue a un niño de 8 años que usa máscara y capa de luchador y genuinamente cree que es un superhéroe, resolviendo misterios del barrio con la ayuda de su perro parlante y de humor seco, Xolo — todo impulsado por la comida de su abuela. Cada episodio es un misterio autoconclusivo de 5 a 10 minutos, arraigado en la cultura auténtica de la Ciudad de México y el argot chilango, con un hilo educativo sutil tejido en la trama en lugar de explicado directamente.
