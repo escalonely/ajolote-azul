@@ -64,6 +64,7 @@ Estas convenciones se usan de manera consistente en todos los episodios para que
 - **Pausas:** Usa `...` para una pausa breve y natural dentro de una línea. Para una pausa más larga y deliberada entre líneas, usa un marcador explícito `[pause]` en su propia línea. Evita depender solo de los saltos de línea para indicar el ritmo.
 - **Énfasis:** Envuelve una palabra enfatizada entre `*asteriscos*` en el guion (para el revisor humano/director de voz); conviértelo a la sintaxis de énfasis que soporte el motor de TTS elegido al momento de generar el audio.
 - **Sonidos no verbales:** Los efectos de sonido y los sonidos no verbales del personaje (risas, suspiros, jadeos) se escriben como su propia indicación entre corchetes en su propia línea, por ejemplo `[laughs]`, `[gasps]`, no incrustados a mitad de una frase.
+- **Efectos ambientales:** El sonido de ambiente o de escena (lluvia, truenos, puertas, pasos) se marca con `[SFX: descripción]` en su propia línea, para distinguirlo claramente de las etiquetas de emoción/interpretación del personaje.
 - **Sintaxis específica del motor:** La sintaxis exacta de etiquetas/pausas soportada debe verificarse contra la documentación actual de ElevenLabs (o el motor elegido) antes de la primera tanda de producción, ya que las etiquetas soportadas cambian con el tiempo. Este archivo define la *convención de autoría*, que puede traducirse a lo que el motor realmente soporte al momento de generar el audio.
 
 ## Lista de Revisión
