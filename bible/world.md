@@ -5,7 +5,7 @@
 ## Recurring (Everyday) Locations
 
 - **Neighborhood streets** — the daily map of Ajolote's world: colorful facades, overhead cables, street vendors, stray dogs, and neighbors who know everyone's business.
-- **The vecindad** — the shared-courtyard building where Ajolote, Xolo, and Abuela live alongside several other families, including Doña Carmen. A central patio makes it easy for neighbors to see (and comment on) each other's lives.
+- **The vecindad** — the shared-courtyard building where Ajolote, Xolo, and Abuela live alongside several other families, including Doña Chelo. A central patio makes it easy for neighbors to see (and comment on) each other's lives.
 - **The mercado** — the covered indoor market a few blocks away, home to Don Pepe's fruit-and-juice puesto and dozens of other fixed stalls.
 - **The tianguis** — the temporary open-air street market that takes over a nearby avenue on set days of the week; different vendors and rhythm from the fixed mercado.
 - **The taquería on the corner** — a small, always-open spot that doubles as a neutral meeting place for characters across the neighborhood.

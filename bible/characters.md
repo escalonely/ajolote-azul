@@ -55,7 +55,7 @@
 
 **Speech patterns:** Mexico City street Spanish / slang. Warm underneath the sarcasm.
 
-**Relationships:** Ajolote's best friend and unofficial minder. Treats Abuela with clear respect and affection. Tolerates Doña Carmen's cat, Michu, at best.
+**Relationships:** Ajolote's best friend and unofficial minder. Treats Abuela with clear respect and affection. Tolerates Doña Chelo's cat, Michu, at best.
 
 ## Abuela
 
@@ -75,7 +75,7 @@
 
 **Speech patterns:** Natural conversational Mexican Spanish. Her voice should feel familiar, comforting and grandmotherly.
 
-**Relationships:** Ajolote's grandmother and guardian. Old friends with Doña Carmen and Don Pepe.
+**Relationships:** Ajolote's grandmother and guardian. Old friends with Doña Chelo and Don Pepe.
 
 ## Don Pepe
 
@@ -89,13 +89,13 @@
 
 **Strengths:** Knows everyone and everything happening in the market; generous with both fruit and advice.
 
-**Weaknesses:** Gossips almost as much as Doña Carmen; easily distracted mid-conversation by a new customer.
+**Weaknesses:** Gossips almost as much as Doña Chelo; easily distracted mid-conversation by a new customer.
 
 **Recurring jokes:** Always tries to give Ajolote a "detective discount"; teases him about the mask ("¿Y hoy contra quién luchas, campeón?").
 
 **Speech patterns:** Natural Chilango Spanish.
 
-**Relationships:** Fond of Ajolote and Xolo; friendly rival banter with Doña Carmen; longtime friend of Abuela.
+**Relationships:** Fond of Ajolote and Xolo; friendly rival banter with Doña Chelo; longtime friend of Abuela.
 
 ## Narrador
 
@@ -129,7 +129,7 @@
 
 **Relationships:** Secretly believes in Ajolote more than she admits; is the group's voice of reason alongside Xolo.
 
-## Doña Carmen
+## Doña Chelo
 
 **Age:** 60s–70s, neighbor in the same vecindad.
 
