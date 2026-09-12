@@ -1,6 +1,6 @@
 # Ajolote Azul
 
-![Ajolote Azul](images/AjoloteAzulBanner01.png)
+![Ajolote Azul](images/AjoloteAzulBanner02.png)
 
 Una serie de audiolibros infantiles ambientada en la Ciudad de México contemporánea, escrita y narrada en español.
 
@@ -10,14 +10,15 @@ Los guiones se escriben para producirse con motores de texto a voz por IA como E
 
 ## Estructura del repositorio
 
-- `bible/` — la biblia de la serie: premisa, tono, personajes, mundo, lenguaje y lineamientos de voz/producción.
-  - `series-bible.md` — premisa, tono, filosofía narrativa y educativa, y las reglas fundamentales del mundo de la serie.
-  - `characters.md` — el elenco completo de personajes, incluyendo personalidad, forma de hablar y relaciones.
-  - `world.md` — ambientación, barrio de origen y lugares recurrentes.
-  - `language.md` — reglas del español chilango y uso del argot.
-  - `voice-bible.md` — dirección de voz por personaje y convenciones de guion para texto a voz.
-- `episodes/` — guiones de los episodios, un archivo por episodio.
-- `research/` — investigación factual de apoyo, usada para anclar los episodios en la cultura e historia real de la Ciudad de México.
+- [`bible/`](bible/) — la biblia de la serie: premisa, tono, personajes, mundo, lenguaje, continuidad y lineamientos de voz/producción.
+  - [`series-bible.md`](bible/series-bible.md) — premisa, tono, filosofía narrativa y educativa, y las reglas fundamentales del mundo de la serie.
+  - [`characters.md`](bible/characters.md) — el elenco completo de personajes, incluyendo personalidad, forma de hablar y relaciones.
+  - [`world.md`](bible/world.md) — ambientación, barrio de origen y lugares recurrentes.
+  - [`language.md`](bible/language.md) — reglas del español chilango y uso del argot.
+  - [`voice-bible.md`](bible/voice-bible.md) — dirección de voz por personaje y convenciones de guion para texto a voz.
+  - [`continuidad.md`](bible/continuidad.md) — registro de lugares, temas, personajes y hechos ya usados, para mantener consistencia entre episodios.
+- [`episodes/`](episodes/) — guiones de los episodios, uno por archivo. Ver [`index.md`](episodes/index.md) para el mapa de la Temporada 1.
+- [`research/`](research/) — investigación factual de apoyo, usada para anclar los episodios en la cultura e historia real de la Ciudad de México.
 
 ## Estado
 
@@ -35,14 +36,15 @@ Scripts are written to be produced with AI text-to-speech engines such as Eleven
 
 ## Repository structure
 
-- `bible/` — the series bible: premise, tone, characters, world, language, and voice/production guidelines.
-  - `series-bible.md` — premise, tone, storytelling and educational philosophy, and the fundamental rules of the show's world.
-  - `characters.md` — full character roster, including personality, speech patterns, and relationships.
-  - `world.md` — setting, home neighborhood, and recurring locations.
-  - `language.md` — rules for Chilango Spanish and slang usage.
-  - `voice-bible.md` — per-character voice direction and text-to-speech script conventions.
-- `episodes/` — episode scripts, one file per episode.
-- `research/` — supporting factual research used to ground episodes in real Mexico City culture and history.
+- [`bible/`](bible/) — the series bible: premise, tone, characters, world, language, continuity, and voice/production guidelines.
+  - [`series-bible.md`](bible/series-bible.md) — premise, tone, storytelling and educational philosophy, and the fundamental rules of the show's world.
+  - [`characters.md`](bible/characters.md) — full character roster, including personality, speech patterns, and relationships.
+  - [`world.md`](bible/world.md) — setting, home neighborhood, and recurring locations.
+  - [`language.md`](bible/language.md) — rules for Chilango Spanish and slang usage.
+  - [`voice-bible.md`](bible/voice-bible.md) — per-character voice direction and text-to-speech script conventions.
+  - [`continuidad.md`](bible/continuidad.md) — tracker of locations, themes, characters, and facts already used, to keep episodes consistent.
+- [`episodes/`](episodes/) — episode scripts, one file per episode. See [`index.md`](episodes/index.md) for the Season 1 map.
+- [`research/`](research/) — supporting factual research used to ground episodes in real Mexico City culture and history.
 
 ## Status
 
