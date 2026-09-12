@@ -3,20 +3,15 @@
 **Duración estimada:** 7-8 minutos
 **Personajes en este episodio:** Narrador, Ajolote Azul, Xolo, Abuela
 
-Nota de formato: `[SFX: ...]` marca efectos de sonido ambientales (ver `bible/voice-bible.md` → Convenciones de Guion para TTS).
-
 ---
 
 NARRADOR:
-En la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que cada noche se pone una máscara azul y negra... y está *convencidísimo* de que eso lo convierte en un superhéroe.
-
-NARRADOR:
-La Arena México lleva desde 1933 llenándose de gritos, aplausos y silbidos cada vez que hay función de lucha libre. Esta noche, adentro, un técnico enmascarado le disputaba la caballera a un rudo tres veces más grande que él, mientras el público entero, puesto de pie, no dejaba de gritarle que se cuidara la espalda. Y afuera, en la calle, alguien más se creía tan héroe como los que estaban sobre el ring.
+En la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que cada noche se pone una máscara azul y negra... y está convencido de que eso lo convierte en un superhéroe.
 
 [SFX: viento y lluvia, truenos lejanos]
 
 NARRADOR:
-Esta noche llovía fuerte, y los cuetes de la fiesta de la esquina tronaban sin parar. Y ahí, en medio de la calle, empapado hasta los huesos, caminaba él: Ajolote Azul.
+Esta noche llovía fuerte. Desde la Arena todavía salían los gritos de la última función de lucha libre, mezclados con el tronido de unos cuetes de la fiesta de la esquina. Y ahí, en medio de la calle, empapado hasta los huesos, caminaba él: Ajolote Azul.
 
 AJOLOTE: [dramatic]
 Ajolote Azul, patrullando la cuadra bajo la lluvia... porque el crimen no descansa. ¡Y yo tampoco!
@@ -36,7 +31,7 @@ NARRADOR:
 Y como hacía siempre, Ajolote Azul le puso nombre al caso antes de averiguar nada.
 
 AJOLOTE: [proud]
-Este caso se llamará... ¡El Aullido en la Tormenta!
+Este será... ¡el Caso del Aullido en la Tormenta!
 
 NARRADOR:
 Siguió el sonido calle abajo, entre charcos y macetas caídas, hasta llegar a unos botes de basura detrás del mercado. Algo se movía ahí dentro.
@@ -60,17 +55,19 @@ Bueno. Ese no era el misterio.
 NARRADOR:
 Pero el aullido volvió a sonar, esta vez más cerca del mercado, justo donde Don Pepe guarda sus cajas de fruta.
 
+[SFX: aullido más cercano]
+
 NARRADOR:
 Ahí, temblando detrás de una caja de mangos, encontró a un perrito sin pelo, empapado y muerto de miedo por los truenos y los cuetes.
 
 AJOLOTE: [gentle]
-Tranquilo... tranquilo, amiguito. Ya casi se acaban los cuetes, ¿va?
+Tranquilo... tranquilo, amiguito. Ya casi se acaban los cuetes. ¿Estás bien?
 
 NARRADOR:
 El perro no se movió. Solo lo miró con esos ojos enormes, como diciendo "¿tú quién eres?"
 
 AJOLOTE:
-Soy Ajolote Azul, defensor de la Colonia Doctores. [pause] Pero para ti, nada más soy Ajolote.
+Soy Ajolote Azul, defensor de la Colonia. [pause] Pero tu me puedes llamar Ajolote.
 
 NARRADOR:
 Se sentó junto a él, ahí, bajo la lluvia, sin importarle que la capa se le llenara de lodo. Sacó una bolsita de cacahuates japoneses que traía guardada — para emergencias, decía él.
@@ -106,16 +103,16 @@ NARRADOR:
 Ajolote no lo pensó ni un segundo.
 
 AJOLOTE:
-Vente. Mi abuela hace el mejor pozole de toda la cuadra, y allá no hay cuetes que valgan.
+Vente. Mi abuela hace el mejor pozole de toda la cuadra, y allá no hay cuetes.
 
 XOLO: [pause]
 ...¿Pozole?
 
 AJOLOTE:
-Con todo y su chile.
+Calientito y con su chile.
 
 XOLO: [reluctant]
-Está bien. Pero nada más porque llueve. Y porque lo del pozole.
+Está bien. Pero nada más porque llueve. Y por lo del pozole.
 
 NARRADOR:
 Y así, empapados los dos, cruzaron la calle rumbo a la vecindad — un niño con capa y un perro sin nombre, aunque eso estaba a punto de cambiar.
@@ -141,7 +138,7 @@ NARRADOR:
 La Abuela se quedó quieta un segundo — nada más un segundo — mirando al perro.
 
 ABUELA: [pause] [warm]
-Igual de bien educado que tú, cuando quieres. [pause] Siéntense los dos, que ya casi está la cena.
+Mira, y hasta mejor educado que tu. [pause] Siéntense los dos, que ya casi está la cena.
 
 NARRADOR:
 Y ya. Así de fácil. Como si en esa casa, oír hablar a un perro fuera lo más normal del mundo.
