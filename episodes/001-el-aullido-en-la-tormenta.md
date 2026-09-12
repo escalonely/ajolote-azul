@@ -1,4 +1,4 @@
-# Episodio 1: El día que llegó Xolo
+# Episodio 1: El Aullido en la Tormenta
 
 **Duración estimada:** 7-8 minutos
 **Personajes en este episodio:** Narrador, Ajolote Azul, Xolo, Abuela
@@ -10,10 +10,13 @@ Nota de formato: `[SFX: ...]` marca efectos de sonido ambientales (ver `bible/vo
 NARRADOR:
 En la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que cada noche se pone una máscara azul y negra... y está *convencidísimo* de que eso lo convierte en un superhéroe.
 
+NARRADOR:
+La Arena México lleva desde 1933 llenándose de gritos, aplausos y silbidos cada vez que hay función de lucha libre. Esta noche, adentro, un técnico enmascarado le disputaba la caballera a un rudo tres veces más grande que él, mientras el público entero, puesto de pie, no dejaba de gritarle que se cuidara la espalda. Y afuera, en la calle, alguien más se creía tan héroe como los que estaban sobre el ring.
+
 [SFX: viento y lluvia, truenos lejanos]
 
 NARRADOR:
-Esta noche llovía fuerte. Desde la Arena todavía salían los gritos de la última función de lucha libre, mezclados con el tronido de unos cuetes de la fiesta de la esquina. Y ahí, en medio de la calle, empapado hasta los huesos, caminaba él: Ajolote Azul.
+Esta noche llovía fuerte, y los cuetes de la fiesta de la esquina tronaban sin parar. Y ahí, en medio de la calle, empapado hasta los huesos, caminaba él: Ajolote Azul.
 
 AJOLOTE: [dramatic]
 Ajolote Azul, patrullando la cuadra bajo la lluvia... porque el crimen no descansa. ¡Y yo tampoco!
@@ -33,7 +36,7 @@ NARRADOR:
 Y como hacía siempre, Ajolote Azul le puso nombre al caso antes de averiguar nada.
 
 AJOLOTE: [proud]
-Este será... ¡el Caso del Aullido en la Tormenta!
+Este caso se llamará... ¡El Aullido en la Tormenta!
 
 NARRADOR:
 Siguió el sonido calle abajo, entre charcos y macetas caídas, hasta llegar a unos botes de basura detrás del mercado. Algo se movía ahí dentro.
@@ -70,16 +73,16 @@ AJOLOTE:
 Soy Ajolote Azul, defensor de la Colonia Doctores. [pause] Pero para ti, nada más soy Ajolote.
 
 NARRADOR:
-Se sentó junto a él, ahí, bajo la lluvia, sin importarle que la capa se le llenara de lodo. Sacó un taco a medio comer que traía guardado — para emergencias, decía él.
+Se sentó junto a él, ahí, bajo la lluvia, sin importarle que la capa se le llenara de lodo. Sacó una bolsita de cacahuates japoneses que traía guardada — para emergencias, decía él.
 
 AJOLOTE:
 Ten. No es gran cosa, pero seguro tienes hambre.
 
 NARRADOR:
-El perro se acercó despacito. Olfateó el taco. Y entonces pasó algo que Ajolote no esperaba.
+El perro se acercó despacito. Olfateó los cacahuates. Y entonces pasó algo que Ajolote no esperaba.
 
 XOLO: [dry]
-¿Nada más un taco? Con lo que ha llovido, yo esperaba algo más elegante.
+¿Nada más cacahuates? Con lo que ha llovido, yo esperaba algo más elegante.
 
 AJOLOTE: [shocked]
 ¡¿QUÉ?! ¡¿TÚ... TÚ HABLAS?!

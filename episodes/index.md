@@ -4,7 +4,7 @@
 
 | # | Título | Duración aprox. | Lugar | Personajes |
 |---|--------|------------------|-------|------------|
-| 1 | [El día que llegó Xolo](001-el-dia-que-llego-xolo.md) | 7-8 min | Colonia Doctores (calles del barrio, mercado, vecindad) | Narrador, Ajolote Azul, Xolo, Abuela |
+| 1 | [El Aullido en la Tormenta](001-el-aullido-en-la-tormenta.md) | 7-8 min | Colonia Doctores (calles del barrio, mercado, vecindad) | Narrador, Ajolote Azul, Xolo, Abuela |
 
 ## Episodios Planeados (2-12)
 

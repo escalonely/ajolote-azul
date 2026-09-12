@@ -14,7 +14,7 @@
 
 **Debilidades:** Saca conclusiones dramáticas antes de comprobar los hechos; se distrae fácilmente con cualquier cosa que parezca una "misión"; es terco una vez que decide que tiene la razón.
 
-**Chistes recurrentes:** Narra sus propias acciones en voz alta como un superhéroe ("¡Ajolote Azul, activando modo detective!"); le pone un nombre exageradamente dramático a cada caso; insiste en que los eventos cotidianos son "una señal."
+**Chistes recurrentes:** Narra sus propias acciones en voz alta como un superhéroe ("¡Ajolote Azul, activando modo detective!"); le pone un nombre exageradamente dramático a cada caso y lo anuncia en voz alta — ese nombre es, de hecho, el título del episodio; insiste en que los eventos cotidianos son "una señal."
 
 **Forma de hablar:** Pronunciación natural de la Ciudad de México / español chilango. Habla rápido cuando se emociona, usa pausas dramáticas para dar efecto.
 

@@ -71,6 +71,7 @@ Pero el niño que escucha debe pensar principalmente:
 - Investigar las referencias culturales en lugar de apoyarnos en estereotipos.
 - Mantener la voz y la forma de hablar de cada personaje consistentes de episodio a episodio.
 - Mantener el humor y lo que está en juego apropiado para niños de 5 a 9 años.
+- Hacer que Ajolote le ponga un nombre dramático a cada caso, y que lo diga en voz alta en algún momento del episodio — ese nombre es el título del episodio.
 
 **No debemos:**
 - Nunca confirmar ni negar los poderes de Ajolote de forma explícita.
