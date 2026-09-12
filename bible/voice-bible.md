@@ -40,7 +40,7 @@ Cada entrada enumera el perfil de voz objetivo y los valores iniciales sugeridos
 - **Configuración sugerida:** Estabilidad alta (~65-75%) para mantener consistencia en pasajes largos de narración; estilo bajo-moderado (debe mantenerse con los pies en la tierra, no teatral).
 - **Notas de interpretación:** Ritmo cinematográfico en las líneas que describen el entorno, más rápido y ligero en los momentos cómicos, tranquilo en las transiciones y momentos de consuelo.
 
-### Vale
+### Fernanda
 - **Perfil de voz:** Niña mexicana, de unos 8 años, clara y con los pies en la tierra, menos dramática que Ajolote.
 - **Configuración sugerida:** Estabilidad más alta que la de Ajolote (~45-55%) para contrastar con su volatilidad.
 - **Notas de interpretación:** Entrega plana/indiferente cuando está escéptica; la calidez genuina aparece pocas veces, lo cual debe hacer que esos momentos destaquen.

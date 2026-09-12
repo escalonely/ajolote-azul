@@ -18,7 +18,7 @@
 
 **Forma de hablar:** Pronunciación natural de la Ciudad de México / español chilango. Habla rápido cuando se emociona, usa pausas dramáticas para dar efecto.
 
-**Relaciones:** Mejores amigos con Xolo, a quien considera su "sidekick" (Xolo diría que es al revés). Adora a la Abuela y siempre trata de impresionarla. Mejor amiga y compañera reacia de investigación: Vale.
+**Relaciones:** Mejores amigos con Xolo, a quien considera su "sidekick" (Xolo diría que es al revés). Adora a la Abuela y siempre trata de impresionarla. Mejor amiga y compañera de investigación: Fernanda.
 
 ### ¿De verdad tiene superpoderes Ajolote?
 
@@ -79,7 +79,7 @@
 
 # Personajes Secundarios / Recurrentes
 
-## Vale (Valentina Reyes)
+## Fernanda Reyes
 
 **Edad:** 8 años, vecina de junto y mejor amiga de Ajolote.
 

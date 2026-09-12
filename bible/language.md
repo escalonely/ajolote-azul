@@ -10,16 +10,16 @@ Regla general: los niños le hablan de "usted" a los adultos que no son de la fa
 - **Ajolote → Xolo:** tú (son compañeros/mejores amigos).
 - **Ajolote → Abuela:** tú (cercanía y calidez familiar).
 - **Ajolote → Don Pepe / Doña Chelo:** usted (adultos del barrio, pero no familia — signo de respeto tradicional). Aquí es natural que Ajolote use "¿mande?" en vez de "¿qué?" cuando no entiende algo que le dicen.
-- **Ajolote → Vale / Kevin:** tú (niños de su edad).
+- **Ajolote → Fernanda / Kevin:** tú (niños de su edad).
 - **Xolo → Abuela:** usted (a pesar de la confianza, Xolo es más tradicional con ella).
 - **Don Pepe, Doña Chelo, Abuela entre sí:** tú (son amigos de toda la vida, misma generación).
-- **Los adultos → Ajolote, Vale, Kevin:** tú (los adultos tutean a los niños).
+- **Los adultos → Ajolote, Fernanda, Kevin:** tú (los adultos tutean a los niños).
 
 ## Glosario de Expresiones Chilangas
 
 - **órale** — sorpresa, acuerdo, o para animar a alguien a actuar. *"¡Órale, vámonos ya!"*
 - **chido** — genial, padre, muy bueno. *"Está bien chido tu disfraz."*
-- **qué onda** — forma casual de saludar o preguntar qué pasa. *"¿Qué onda, Vale, todo bien?"*
+- **qué onda** — forma casual de saludar o preguntar qué pasa. *"¿Qué onda, Fernanda, todo bien?"*
 - **no manches** — incredulidad o sorpresa (versión suave de una grosería). *"¡No manches, encontré una pista!"*
 - **aguas** — cuidado, alerta. *"¡Aguas, ahí viene Don Pepe!"*
 - **chamaco/chamaca** — niño o niña, de forma coloquial. *"Ese chamaco no se está quieto."*
@@ -34,7 +34,7 @@ Regla general: los niños le hablan de "usted" a los adultos que no son de la fa
 - Máximo 2-3 expresiones marcadas por escena — lo suficiente para dar sabor, sin que cada línea suene a glosario.
 - Evitar que dos personajes usen la misma expresión en la misma escena; cada quien tiene sus preferidas (ver "forma de hablar" de cada personaje en `characters.md`).
 - Reservar las expresiones más fuertes (como "no manches") para momentos de sorpresa genuina, no como relleno constante.
-- Xolo y Kevin pueden usar argot con más frecuencia que Vale, Abuela o el Narrador — es parte de cómo se caracteriza a cada uno.
+- Xolo y Kevin pueden usar argot con más frecuencia que Fernanda, Abuela o el Narrador — es parte de cómo se caracteriza a cada uno.
 
 ## Qué Evitar
 
