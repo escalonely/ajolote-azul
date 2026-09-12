@@ -6,7 +6,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 
 ### Episodio 1 — El día que llegó Xolo
 
-- Xolo llega a vivir con Ajolote y la Abuela; se conocieron durante una tormenta con cohetes, detrás del mercado.
+- Xolo llega a vivir con Ajolote y la Abuela; se conocieron durante una tormenta con cuetes, detrás del mercado.
 - El origen de cómo Xolo puede hablar se mantiene sin explicar (y debe seguir así).
 - Xolo le habla de "usted" a la Abuela desde su primera conversación.
 - Cameo de Michu (gata de Doña Chelo) como pista falsa.

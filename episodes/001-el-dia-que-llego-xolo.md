@@ -13,13 +13,13 @@ En la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que ca
 [SFX: viento y lluvia, truenos lejanos]
 
 NARRADOR:
-Esta noche llovía fuerte. Desde la Arena todavía salían los gritos de la última función de lucha libre, mezclados con el tronido de unos cohetes de la fiesta de la esquina. Y ahí, en medio de la calle, empapado hasta los huesos, caminaba él: Ajolote Azul.
+Esta noche llovía fuerte. Desde la Arena todavía salían los gritos de la última función de lucha libre, mezclados con el tronido de unos cuetes de la fiesta de la esquina. Y ahí, en medio de la calle, empapado hasta los huesos, caminaba él: Ajolote Azul.
 
 AJOLOTE: [dramatic]
 Ajolote Azul, patrullando la cuadra bajo la lluvia... porque el crimen no descansa. ¡Y yo tampoco!
 
 NARRADOR:
-Nadie le había pedido que patrullara nada. Pero esa noche, entre el ruido de los cohetes, escuchó algo que no esperaba.
+Nadie le había pedido que patrullara nada. Pero esa noche, entre el ruido de los cuetes, escuchó algo que no esperaba.
 
 [SFX: aullido lejano, apagado y asustado]
 
@@ -58,10 +58,10 @@ NARRADOR:
 Pero el aullido volvió a sonar, esta vez más cerca del mercado, justo donde Don Pepe guarda sus cajas de fruta.
 
 NARRADOR:
-Ahí, temblando detrás de una caja de mangos, encontró a un perrito sin pelo, empapado y muerto de miedo por los truenos y los cohetes.
+Ahí, temblando detrás de una caja de mangos, encontró a un perrito sin pelo, empapado y muerto de miedo por los truenos y los cuetes.
 
 AJOLOTE: [gentle]
-Tranquilo... tranquilo, amiguito. Ya casi se acaban los cohetes, ¿va?
+Tranquilo... tranquilo, amiguito. Ya casi se acaban los cuetes, ¿va?
 
 NARRADOR:
 El perro no se movió. Solo lo miró con esos ojos enormes, como diciendo "¿tú quién eres?"
@@ -91,7 +91,7 @@ AJOLOTE: [excited]
 ¡No manches! ¡Un perro que habla! Esto es... ¡esto es la señal más grande que he tenido en toda mi carrera de superhéroe!
 
 XOLO:
-Llevo aquí escondido desde que empezaron los cohetes. No es una señal, chamaco. Es una tormenta.
+Llevo aquí escondido desde que empezaron los cuetes. No es una señal, chamaco. Es una tormenta.
 
 AJOLOTE:
 Ajá. Eso es justo lo que diría un perro con un secreto muy grande.
@@ -103,7 +103,7 @@ NARRADOR:
 Ajolote no lo pensó ni un segundo.
 
 AJOLOTE:
-Vente. Mi abuela hace el mejor pozole de toda la cuadra, y allá no hay cohetes que valgan.
+Vente. Mi abuela hace el mejor pozole de toda la cuadra, y allá no hay cuetes que valgan.
 
 XOLO: [pause]
 ...¿Pozole?
@@ -185,7 +185,7 @@ Ajolote Azul volverá... muy pronto.
 
 ## Notas de Continuidad
 
-- Xolo llega a vivir con Ajolote y la Abuela a partir de este episodio; se conocieron durante una tormenta con cohetes, detrás del mercado.
+- Xolo llega a vivir con Ajolote y la Abuela a partir de este episodio; se conocieron durante una tormenta con cuetes, detrás del mercado.
 - El origen exacto de cómo Xolo puede hablar se mantiene sin explicar (ver `bible/world.md` → Temas → El origen de Xolo).
 - Xolo le habla de "usted" a la Abuela desde su primera conversación (ver `bible/language.md` → Tú y Usted).
 - Cameo de Michu, la gata de Doña Chelo, como pista falsa.
