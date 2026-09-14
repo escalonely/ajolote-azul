@@ -2,9 +2,10 @@
 
 ## Episodios Escritos
 
-| # | Título | Duración aprox. | Lugar | Personajes |
-|---|--------|------------------|-------|------------|
-| 1 | [El Aullido en la Tormenta](001-el-aullido-en-la-tormenta.md) | 7-8 min | Colonia Doctores (calles del barrio, mercado, vecindad) | Narrador, Ajolote Azul, Xolo, Abuela |
+| # | Título | Lugar | Tema educativo | Tipo de misterio | Personajes | ¿Especial? |
+|---|---|---|---|---|---|---|
+| 1 | [El Aullido en la Tormenta](001-el-aullido-en-la-tormenta.md) | Colonia Doctores (calles del barrio, mercado, vecindad) | Animales locales (Xoloitzcuintle) / Lucha libre | Episodio de origen (sin antagonista) | Narrador, Ajolote Azul, Xolo, Abuela | No |
+| 2 | [El Caso del Tesoro en la Tianguis](002-el-caso-del-tesoro-en-la-tianguis.md) | Tianguis | Mercados / economía local / Los aztecas-mexicas | Malentendido | Narrador, Ajolote Azul, Fernanda, Don Pepe | No |
 
 ## Episodios Planeados (2-12)
 
@@ -12,7 +13,6 @@ Temporada 1 definida en 12 episodios. Orden pensado para repartir los 3 episodio
 
 | # | Título tentativo | Lugar | Tema educativo | Tipo de misterio | Personajes | ¿Especial? |
 |---|---|---|---|---|---|---|
-| 2 | El Caso del Tesoro en la Tianguis | Tianguis | Mercados / economía local | Malentendido | Fernanda, Don Pepe | No |
 | 3 | Quién se Robó las Flores de Cempasúchil | Calles del barrio | Día de Muertos | Malentendido con corazón | Doña Chelo, Abuela | No |
 | 4 | La Máscara Perdida de Arena México | Colonia Doctores / Arena México | Lucha libre | Malentendido | Don Pepe, Kevin (falsa sospecha) | No |
 | 5 | El Fantasma del Metro Balderas | Metro Balderas | El Metro | Explicación natural | Xolo, empleado del Metro (nuevo) | No |
