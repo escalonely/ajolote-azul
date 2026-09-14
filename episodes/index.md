@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|
 | 1 | [El Aullido en la Tormenta](001-el-aullido-en-la-tormenta.md) | Colonia Doctores (calles del barrio, mercado, vecindad) | Animales locales (Xoloitzcuintle) / Lucha libre | Episodio de origen (sin antagonista) | Narrador, Ajolote Azul, Xolo, Abuela | No |
 | 2 | [El Caso del Tesoro en la Tianguis](002-el-caso-del-tesoro-en-la-tianguis.md) | Tianguis | Mercados / economía local / Los aztecas-mexicas | Malentendido | Narrador, Ajolote Azul, Fernanda, Don Pepe | No |
+| 3 | [Quién se Robó las Flores de Cempasúchil](003-quien-se-robo-las-flores-de-cempasuchil.md) | Colonia Doctores (vecindad, puesto de Don Pepe) | Día de Muertos | Malentendido con corazón | Narrador, Ajolote Azul, Xolo, Abuela, Doña Chelo, Don Pepe | No |
 
 ## Episodios Planeados (2-12)
 
@@ -13,7 +14,6 @@ Temporada 1 definida en 12 episodios. Orden pensado para repartir los 3 episodio
 
 | # | Título tentativo | Lugar | Tema educativo | Tipo de misterio | Personajes | ¿Especial? |
 |---|---|---|---|---|---|---|
-| 3 | Quién se Robó las Flores de Cempasúchil | Calles del barrio | Día de Muertos | Malentendido con corazón | Doña Chelo, Abuela | No |
 | 4 | La Máscara Perdida de Arena México | Colonia Doctores / Arena México | Lucha libre | Malentendido | Don Pepe, Kevin (falsa sospecha) | No |
 | 5 | El Fantasma del Metro Balderas | Metro Balderas | El Metro | Explicación natural | Xolo, empleado del Metro (nuevo) | No |
 | 6 | El Sabor Secreto de la Abuela | Vecindad (cocina) | Comida mexicana / tradiciones familiares | Misterio cálido, sin antagonista | Abuela, Don Pepe | No |
