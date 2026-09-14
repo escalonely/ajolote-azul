@@ -48,7 +48,7 @@ NARRADOR:
 Y así, los dos se pusieron a seguir el camino de semillas — que, como pronto descubrirían, no iba a ser tan fácil.
 
 NARRADOR:
-Primero, la pista los llevó frente al puesto de las tortillas, de donde provenía un aroma delicioso a tortillitas recién hechas, acompañado de el constante rechinar de la máquina tortilladora. 
+Primero, la pista los llevó frente al puesto de las tortillas, de donde provenía un aroma delicioso a tortillitas recién hechas, acompañado del constante rechinar de la máquina tortilladora.
 
 [SFX: rechinar de la máquina]
 
@@ -107,7 +107,7 @@ AJOLOTE:
 Entonces... ¿no es un tesoro pirata?
 
 DON PEPE: [warm]
-Mejor que eso, m'ijo. Es para el mole que voy a hacer este domingo — receta de familia.
+Mejor que eso, m'ijo. Es para el mole que voy a hacer este domingo — receta que lleva en mi familia muchas generaciones.
 
 NARRADOR:
 Don Pepe se sentó en un banquito junto a sus cajas de mango y dejó caer un par de semillas en las manos de Fernanda y de Ajolote.
@@ -119,7 +119,7 @@ FERNANDA: [curious]
 ¿El cacao... era dinero?
 
 DON PEPE:
-Así como lo oyes. En el tianguis más grande que existía por estos rumbos, el tianguis de Tlatelolco. La gente no pagaba con monedas, pagaba con granos de cacao. Y había que saber bien cuántos granos valía un pavo, o una manta, o unos huaraches nuevos.
+Así como lo oyes. En el tianguis más grande que existía por estos rumbos, el mercado de Tlatelolco, la gente no pagaba con monedas, pagaba con granos de cacao. Y había que saber bien cuántos granos valía un pavo, o una manta, o unos huaraches nuevos.
 
 AJOLOTE: [shocked]
 ¡¿CON CACAO?! [pause] ¡No manches! ¿Y si alguien se lo comía sin querer?
@@ -137,7 +137,7 @@ FERNANDA: [pleased]
 Gracias, Don Pepe. [to Ajolote] ¿Ves? Ni magia, ni piratas. Nada más una bolsa rota.
 
 AJOLOTE: [proud]
-Ajá. Pero al final, lo que encontramos SI fué un tesoro.
+Ajá. Pero al final, lo que encontramos sí *fue* un tesoro.
 
 NARRADOR:
 Fernanda cerró su libreta con una sonrisa que casi — casi — no intentó esconder.
