@@ -6,7 +6,7 @@
 ---
 
 NARRADOR:
-Faltaban pocos días para el Día de Muertos, y toda la Colonia Doctores olía a cempasúchil. En cada puerta y en cada ventana empezaban a aparecer flores anaranjadas, papel picado, y fotografías viejas junto a veladoras.
+Faltaban pocos días para el Día de Muertos, y toda la Colonia Doctores olía a cempasúchil. En cada puerta y en cada ventana empezaban a aparecer flores anaranjadas, papel picado de muchos colores, y fotografías viejas junto a veladoras.
 
 [SFX: bullicio del barrio, papel picado ondeando con el viento]
 
@@ -44,7 +44,7 @@ NARRADOR:
 Ajolote corrió tras él, avisándole de pasada a la Abuela.
 
 AJOLOTE:
-¡Vamos a investigar, Abuela! ¡No se preocupe!
+¡Vamos a investigar, Abuela! ¡No te preocupes!
 
 ABUELA: [unimpressed]
 No me preocupaba, mijo. Ve con cuidado.
