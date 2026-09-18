@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 | 1 | [El Aullido en la Tormenta](001-el-aullido-en-la-tormenta.md) | Colonia Doctores (calles del barrio, mercado, vecindad) | Animales locales (Xoloitzcuintle) / Lucha libre | Episodio de origen (sin antagonista) | Narrador, Ajolote Azul, Xolo, Abuela | No |
 | 2 | [El Caso del Tesoro en la Tianguis](002-el-caso-del-tesoro-en-la-tianguis.md) | Tianguis | Mercados / economía local / Los aztecas-mexicas | Malentendido | Narrador, Ajolote Azul, Fernanda, Don Pepe | No |
-| 3 | [Quién se Robó las Flores de Cempasúchil](003-quien-se-robo-las-flores-de-cempasuchil.md) | Colonia Doctores (vecindad, puesto de Don Pepe) | Día de Muertos | Malentendido con corazón | Narrador, Ajolote Azul, Xolo, Abuela, Doña Chelo, Don Pepe | No |
+| 3 | [Operación Cempasúchil](003-operacion-cempasuchil.md) | Colonia Doctores (vecindad, puesto de Don Pepe, calles del barrio) | Día de Muertos | Misión de ayuda (sin misterio) | Narrador, Ajolote Azul, Xolo, Abuela, Fernanda, Don Pepe, Doña Chelo | No |
 
 ## Episodios Planeados (2-12)
 
