@@ -32,11 +32,25 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Datos educativos: cempasúchil = náhuatl, aprox. "veinte flores"/"flor de veinte pétalos"; su color y aroma guían a las almas a casa; caminito de pétalos de la puerta a la ofrenda. Se menciona el Mercado de Jamaica.
 - Sin antagonista. Personaje incidental: Señor de las Flores (una línea).
 
+### Episodio 4 — La Máscara Perdida de Arena México
+
+- **Primera aparición hablada de Kevin "El Presumido".** Vive en "la vecindad de la esquina"; se recarga en la pared de la esquina los viernes. Se burla de la capa ("ya estás grande para eso"), presume datos (Arena México desde 1933), ayuda "nada más porque no tengo nada que hacer" y al final dice que fue idea suya. Primera vez que oye hablar a Xolo; finge que ya sabía. Compra una máscara dorada con brillitos (con etiqueta) afuera de la Arena y se va a la función con ella puesta.
+- **Malentendido con falsa sospecha:** Ajolote acusa a Kevin sin pruebas y se equivoca. Xolo lo anota "con pluma" (callback al lápiz del Ep. 3).
+- **Resolución:** la Abuela se llevó la máscara a arreglar con Don Beto sin avisarle bien a Don Pepe (él dijo "sí, sí, comadre, lo que quieras" distraído con una clienta). La Abuela y Don Pepe se llaman "comadre" / "Pepe".
+- **La máscara de Don Pepe:** dorada con alitas verdes, despintada por el sol, cuelga de un clavo encima del puesto desde siempre. Era de su papá, luchador **técnico** de la Arena México, **El Colibrí Dorado** (ficticio): chiquito y rapidísimo, nunca apostó la máscara, luchó hasta los ~52 años, se la quitó al retirarse en casa y solo Don Pepe lo vio. El puesto era entonces "un carrito". Ahora tiene una costura nueva.
+- Gag invertido: Don Pepe **no** pregunta "¿y hoy contra quién luchas?" al inicio (señal de que algo anda mal); lo pregunta al final. Variante del descuento: "hoy no hay descuento de detective, hoy hay fruta gratis" / Ajolote: "ciento diez por ciento".
+- Momento ambiguo de "poderes": Ajolote señala la caja tapada correcta sin verla ("se veía a leguas tapada"). Xolo lo explica como "seguro la olió"; Kevin se queda callado.
+- **Personaje incidental nuevo: Don Beto**, mascarero con el puesto más viejo afuera de la Arena México (máquina de coser, bigote blanco, lentes). Vende y arregla máscaras. Reutilizable.
+- Tema emocional: el miedo de Ajolote a que le digan que ya está grande para la máscara, planteado por Kevin y respondido de lado por Don Pepe ("¿A un luchador? ¿Quién?"). Sin resolver explícitamente.
+- Datos educativos: Arena México desde 1933, "La Catedral de la Lucha Libre"; la máscara como identidad; luchas de apuestas (máscara contra cabellera) — el perdedor se desenmascara y dice su nombre; la primera máscara la hizo un zapatero, de cuero (verificar antes de producción); técnicos vs. rudos; El Santo nunca perdió su máscara.
+- Fernanda, Doña Chelo y Michu **no** aparecen.
+
 ## Lugares Usados
 
 - Colonia Doctores (calles del barrio, mercado, vecindad) — Episodio 1.
 - Tianguis (puesto de tortillas, puesto de frutas de Don Pepe) — Episodio 2.
 - Colonia Doctores (vecindad, puerta de Fernanda, puesto de Don Pepe, calles del barrio, puerta de Doña Chelo) — Episodio 3.
+- Colonia Doctores (vecindad, puesto de Don Pepe, esquina de Kevin) y **Arena México / calle Doctor Lavista** (puestos de máscaras de los viernes, puesto de Don Beto) — Episodio 4.
 
 ## Temas Educativos Usados
 
@@ -44,6 +58,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Lucha libre (ambientación, Arena México) — Episodio 1.
 - Mercados / economía local y los aztecas/mexicas (cacao como moneda en Tlatelolco) — Episodio 2.
 - Día de Muertos (el cempasúchil: origen náhuatl del nombre, guía de las almas, caminito de pétalos) — Episodio 3.
+- Lucha libre a fondo (Arena México 1933, la máscara como identidad, luchas de apuestas / máscara contra cabellera, técnicos vs. rudos, El Santo, origen de la máscara) — Episodio 4.
 
 ## Personajes Secundarios Usados (rotación)
 
@@ -52,7 +67,11 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Don Pepe — Episodio 2 (primera aparición hablada); regresa en el Episodio 3.
 - Doña Chelo — Episodio 3 (primera aparición hablada).
 - Señor de las Flores (vendedor de camioneta) — Episodio 3 (incidental, una línea).
+- Don Pepe — regresa en el Episodio 4 (papel central: la máscara de su papá).
+- Kevin "El Presumido" — Episodio 4 (primera aparición hablada).
+- Don Beto (mascarero de la Arena México) — Episodio 4 (incidental, reutilizable).
 
 ## Antagonistas / Fricción Usados
 
-- Ninguno todavía — los Episodios 1 y 2 son de tipo origen/"malentendido" y el Episodio 3 es una misión de ayuda; ninguno tiene antagonista ni fricción.
+- Episodios 1-3: sin antagonista ni fricción (origen, malentendido, misión de ayuda).
+- Episodio 4: primera fricción leve — Kevin como **falsa sospecha** (Ajolote lo acusa y se equivoca). Kevin no es antagonista real: termina ayudando. Regla del índice: Kevin no debe aparecer en el Episodio 5.
