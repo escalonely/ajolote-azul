@@ -49,12 +49,26 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Datos educativos: Arena México desde 1933, "La Catedral de la Lucha Libre"; la máscara como identidad; luchas de apuestas (máscara contra cabellera) — el perdedor se desenmascara y dice su nombre; la primera máscara la hizo un zapatero, de cuero (verificar antes de producción); técnicos vs. rudos; El Santo nunca perdió su máscara.
 - Fernanda, Doña Chelo y Michu **no** aparecen.
 
+### Episodio 5 — El Fantasma del Metro Balderas
+
+- **Fernanda lleva su primer caso completo desde el Ep. 2.** Trae el rumor de la escuela; la Abuela la pone "a cargo". Subraya dos veces el "ahí viene" de Ajolote; Xolo le pregunta "¿lo apuntaste?".
+- **Personaje nuevo: Don Ramón**, limpieza del turno de noche en Metro Balderas (uniforme gris, termo de café, llega antes de su turno "para tomarse su café con gente alrededor"). Veinte años oyendo el "lamento" sin bajar al andén. Su hijo **Toño** va en el salón de Fernanda. Reutilizable.
+- **Explicación natural:** el "fantasma" es el aire que empujan los trenes por el túnel (efecto pistón), que escapa por rejillas y escaleras y suena "como soplar en una botella gigante". De noche se oye clarito porque no hay ruido y siguen pasando trenes vacíos (mantenimiento / rumbo al taller). Fernanda deduce.
+- **Xolo no entra al Metro** ("Prohibido el acceso con animales"); espera en la jardinera de la boca de la estación. Gag: "Me despeinó." / "No tienes pelo." / "Por eso lo noté."
+- Momento ambiguo de "poderes": Ajolote dice "Ahí viene" antes de cualquier viento, sonido o luz, tres veces seguidas ("No sé. Lo sentí"). Xolo intenta explicarlo, Fernanda lo desarma, Xolo se queda callado.
+- Núcleo emocional: Ajolote admite que el túnel le da miedo; Fernanda: "¿los superhéroes pueden tener miedo?" / "Los buenos sí." Baja de todos modos. Abuela al cierre: "¿Y fuiste de todos modos? Pues eso es lo que cuenta."
+- Ajolote sigue sin ahorros (Ep. 3); Fernanda paga su pasaje y le cobra "seis pesos". Cena: sopa de fideo.
+- Fernanda apunta "Pino Suárez. Ehécatl. Ir a ver." — semilla para un episodio futuro.
+- Datos educativos: pictograma de Balderas = cañón por la Ciudadela (antiguo depósito de armas), y cada estación tiene dibujo para quien no sabía leer; efecto pistón; templo de Ehécatl hallado al construir Pino Suárez (tres estaciones adelante en Línea 1). Verificar antes de producción: "el tren de las doce".
+- Kevin, Don Pepe, Doña Chelo y Michu **no** aparecen. Sin antagonista.
+
 ## Lugares Usados
 
 - Colonia Doctores (calles del barrio, mercado, vecindad) — Episodio 1.
 - Tianguis (puesto de tortillas, puesto de frutas de Don Pepe) — Episodio 2.
 - Colonia Doctores (vecindad, puerta de Fernanda, puesto de Don Pepe, calles del barrio, puerta de Doña Chelo) — Episodio 3.
 - Colonia Doctores (vecindad, puesto de Don Pepe, esquina de Kevin) y **Arena México / calle Doctor Lavista** (puestos de máscaras de los viernes, puesto de Don Beto) — Episodio 4.
+- **Metro Balderas** (boca de la estación con jardinera, vestíbulo/taquillas, torniquetes, andén de Línea 1) y vecindad — Episodio 5. Se mencionan Pino Suárez y la Ciudadela.
 
 ## Temas Educativos Usados
 
@@ -63,6 +77,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Mercados / economía local y los aztecas/mexicas (cacao como moneda en Tlatelolco) — Episodio 2.
 - Día de Muertos (el cempasúchil: origen náhuatl del nombre, guía de las almas, caminito de pétalos) — Episodio 3.
 - Lucha libre a fondo (Arena México 1933, la máscara como identidad, luchas de apuestas / máscara contra cabellera, técnicos vs. rudos, El Santo, origen de la máscara) — Episodio 4.
+- El Metro (pictogramas y su razón, el cañón de Balderas / la Ciudadela, efecto pistón del aire en los túneles, templo de Ehécatl en Pino Suárez) — Episodio 5.
 
 ## Personajes Secundarios Usados (rotación)
 
@@ -74,6 +89,8 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Don Pepe — regresa en el Episodio 4 (papel central: la máscara de su papá).
 - Kevin "El Presumido" — Episodio 4 (primera aparición hablada).
 - Don Beto (mascarero de la Arena México) — Episodio 4 (incidental, reutilizable).
+- Fernanda — regresa en el Episodio 5 (papel central: deduce la explicación).
+- Don Ramón (limpieza nocturna, Metro Balderas) — Episodio 5 (nuevo, reutilizable). Su hijo Toño solo se menciona.
 
 ## Antagonistas / Fricción Usados
 
