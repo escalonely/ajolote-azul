@@ -23,10 +23,10 @@ ABUELA: [unbothered]
 Nada que te importe, Xolo. Ándale, que se me hace tarde.
 
 XOLO: [dry]
-Ya. Lo anoto.
+Ya. Sospechoso.
 
 NARRADOR:
-Xolo anota muchas cosas. Casi todas son sobre Ajolote. Pero esa, por si acaso, la guardó aparte.
+Xolo no dijo nada más. Pero levantó una ceja, y la dejó levantada un buen rato.
 
 NARRADOR:
 Don Pepe estaba en su puesto, como siempre. Pero no estaba acomodando fruta, ni gritando precios, ni molestando a nadie. Estaba parado, muy quieto, mirando hacia arriba, a un clavo vacío en la pared.
@@ -179,13 +179,13 @@ AJOLOTE: [deflated]
 ...No es la de Don Pepe.
 
 XOLO:
-No. Y esa va a mi cuenta. Con pluma.
+No. Te lo dije. Una corazonada con capa.
 
 AJOLOTE: [grumbling]
-La otra vez fue con lápiz.
+La otra vez la corazonada sí funcionó.
 
 XOLO:
-La otra vez acertaste.
+La otra vez no acusaste a nadie.
 
 KEVIN: [smug]
 ¿Ven? El gran detective de la cuadra, acusando a la gente decente. [pause] Aunque... ¿en serio se perdió la máscara de Don Pepe?
@@ -209,7 +209,7 @@ AJOLOTE: [determined]
 No me voy a equivocar dos veces.
 
 XOLO: [dry]
-Eso también lo anoto. Por si acaso.
+Ya veremos.
 
 NARRADOR:
 La Arena México está en la calle Doctor Lavista, y aunque todavía era de tarde, ya parecía noche de fiesta. Los puestos ocupaban toda la banqueta: máscaras colgadas en hileras, plateadas, rojas, negras con rayos, azules con estrellas. Cientos de ojos de tela mirando a la calle.
@@ -464,8 +464,8 @@ El siguiente misterio de Ajolote Azul está más cerca de lo que creen.
 
 - **Primera aparición hablada de Kevin "El Presumido".** Se establecen sus rasgos: se burla de la máscara/capa de Ajolote ("ya estás grande para eso"), presume datos ("aquí hay luchas desde 1933"), ayuda a regañadientes ("nada más porque no tengo nada que hacer") y al final dice que fue idea suya. Vive en "la vecindad de la esquina". Es la primera vez que oye hablar a Xolo; finge que ya sabía.
 - Kevin compra una máscara dorada con brillitos (con etiqueta) en los puestos de afuera de la Arena; termina el episodio yéndose a la función con ella puesta, "no es que me guste".
-- **Tipo: malentendido, con falsa sospecha.** Ajolote acusa a Kevin sin pruebas y se equivoca. Xolo lo anota "con pluma" (callback al Episodio 3, donde anotó el acierto "con lápiz").
-- **Resolución impulsada por debilidades de la biblia:** la Abuela se llevó la máscara a arreglar "por el bien" de Don Pepe (su debilidad de meterse por el bien de otros); Don Pepe dijo "sí, sí, comadre, lo que quieras" distraído con una clienta (su debilidad de distraerse cuando llega un cliente). Se plantó al inicio: la Abuela casi le da un recado a Ajolote y se arrepiente; Xolo "lo anota".
+- **Tipo: malentendido, con falsa sospecha.** Ajolote acusa a Kevin sin pruebas y se equivoca. Xolo se lo había advertido ("una corazonada con capa") y le recuerda que la "señal" del Episodio 3 funcionó porque entonces no acusó a nadie.
+- **Resolución impulsada por debilidades de la biblia:** la Abuela se llevó la máscara a arreglar "por el bien" de Don Pepe (su debilidad de meterse por el bien de otros); Don Pepe dijo "sí, sí, comadre, lo que quieras" distraído con una clienta (su debilidad de distraerse cuando llega un cliente). Se plantó al inicio: la Abuela casi le da un recado a Ajolote y se arrepiente; Xolo lo nota ("Sospechoso") y levanta la ceja.
 - La Abuela y Don Pepe se llaman "comadre"/"Pepe" (amigos de toda la vida, tuteo).
 - **La máscara de Don Pepe:** dorada con alitas verdes, despintada por el sol, colgada de un clavo encima de su puesto desde siempre. Era de su papá, luchador **técnico** en la Arena México con el nombre **El Colibrí Dorado** (ficticio): "chiquito pero rapidísimo", nunca apostó la máscara, luchó hasta los ~52 años, se la quitó al retirarse en su casa y solo Don Pepe lo vio. El puesto de Don Pepe era entonces "un carrito".
 - Señal de que algo anda mal: Don Pepe **no** pregunta "¿y hoy contra quién luchas?" al inicio; lo pregunta al final cuando vuelve a ser él. Variante del gag del descuento: "hoy no hay descuento de detective, hoy hay fruta gratis" / Ajolote: "ciento diez por ciento".

@@ -39,7 +39,7 @@
 
 **Debilidades:** En secreto disfruta las aventuras más de lo que deja ver; a veces es demasiado orgulloso para admitir que Ajolote tenía razón.
 
-**Chistes recurrentes:** Frases secas que desinflan los dramas de Ajolote; finge que "no estaba preocupado" después de cada caso; lleva la cuenta de cuántas veces se ha equivocado Ajolote con sus teorías.
+**Chistes recurrentes:** Frases secas que desinflan los dramas de Ajolote; finge que "no estaba preocupado" después de cada caso. **Xolo nunca anota, escribe ni lleva cuentas de nada** (ni de los errores de Ajolote): la libreta y el acto de apuntar son exclusivos de Fernanda.
 
 **Forma de hablar:** Español callejero de la Ciudad de México / argot. Cálido por debajo del sarcasmo.
 
@@ -83,7 +83,7 @@
 
 **Edad:** 8 años, vecina de junto y mejor amiga de Ajolote.
 
-**Apariencia:** Sin disfraz — ropa práctica, siempre trae consigo una libretita para anotar pistas reales.
+**Apariencia:** Sin disfraz — ropa práctica, siempre trae consigo una libretita para anotar pistas reales. **Es el único personaje que anota** — ningún otro (ni Xolo) escribe ni apunta nada; ese rasgo es exclusivamente suyo.
 
 **Personalidad:** Práctica, escéptica, observadora y leal. Le sigue el juego a la persona de superhéroe de Ajolote mientras pone los ojos en blanco, pero siempre aparece cuando de verdad importa.
 

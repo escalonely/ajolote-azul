@@ -70,6 +70,7 @@ Pero el niño que escucha debe pensar principalmente:
 - Usar el argot chilango de forma auténtica y con moderación — lo suficiente para sonar real, nunca tanto que se sienta como un glosario.
 - Investigar las referencias culturales en lugar de apoyarnos en estereotipos.
 - Mantener la voz y la forma de hablar de cada personaje consistentes de episodio a episodio.
+- Respetar los rasgos exclusivos de cada personaje.
 - Mantener el humor y lo que está en juego apropiado para niños de 5 a 9 años.
 - Hacer que Ajolote le ponga un nombre dramático a cada caso, y que lo diga en voz alta en algún momento del episodio — ese nombre es el título del episodio.
 

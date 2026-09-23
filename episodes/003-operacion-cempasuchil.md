@@ -292,13 +292,13 @@ AJOLOTE: [warm]
 Oye, Xolo... sin ti no hubiera sabido ni por dónde empezar.
 
 XOLO:
-Y sin tu "señal" no hubiéramos encontrado el último manojo. [pause] Hoy no te equivocaste ni una vez. Lo voy a anotar en mi cuenta. Del lado bueno, que está bastante vacío.
+Y sin tu "señal" no hubiéramos encontrado el último manojo. [pause] Hoy no te equivocaste ni una vez.
 
 AJOLOTE: [delighted]
-¡¿Me vas a anotar algo *bueno*?!
+¡¿Me estás diciendo que hice todo *bien*?!
 
 XOLO:
-Con lápiz. Por si acaso.
+No te emociones. Mañana es otro día.
 
 NARRADOR: [warm]
 Y esa noche, mientras el olor a cempasúchil se colaba por cada ventana de la Colonia Doctores, en la ofrenda de Doña Chelo brillaban flores de cuatro casas distintas — y un caminito de pétalos que llegaba, sin perderse, hasta su puerta.
@@ -316,7 +316,7 @@ El siguiente misterio de Ajolote Azul está más cerca de lo que creen.
 - Este episodio **no es un misterio**: es una misión de ayuda. Aun así, Ajolote le pone nombre dramático ("Operación Cempasúchil") y lo anuncia en voz alta — la costumbre se mantiene aunque no haya caso; Xolo mismo señala que "no hay ladrón, no hay pistas, no hay misterio".
 - Ajolote gasta **todos sus ahorros** en el último manojo de cempasúchil. Su alcancía es un cochinito de barro con una calcomanía de luchador; tenía "como treinta pesos y un botón". Al final del episodio está sin ahorros (recuperó el botón).
 - Momento ambiguo de "poderes" (máximo uno por episodio): la "señal" de Ajolote los lleva a la única camioneta que aún tenía flores. Xolo pregunta cómo lo supo y "decide no preguntar más, por si acaso".
-- Xolo lleva la cuenta de las veces que Ajolote se equivoca; hoy anota, "con lápiz", la primera vez del lado bueno.
+- Xolo reconoce que Ajolote "hoy no se equivocó ni una vez", y de inmediato lo desinfla ("No te emociones. Mañana es otro día").
 - Don Pepe tiene una pequeña ofrenda en su puesto (veladora, foto, ramo de cempasúchil). Gag del "descuento de detective: cien por ciento". Regala mandarinas para la ofrenda de Chelo; Xolo las carga con el hocico sin comerse ninguna.
 - Fernanda contribuye flores de la ofrenda de su mamá y la cubeta con agua; cuenta las flores y anota el número en su libreta. No acompaña al resto de la misión.
 - La Abuela recompensa a Ajolote y a Xolo con atole de limón "por andar de caritativos". Xolo lo toma en un platito hondo en el suelo.

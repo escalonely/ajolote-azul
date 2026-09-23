@@ -2,6 +2,10 @@
 
 Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados en episodios publicados. Actualizar después de escribir cada episodio nuevo, para mantener consistencia sin tener que releer todos los guiones anteriores.
 
+## Reglas de Continuidad Transversales
+
+- **Solo Fernanda anota.** La libreta de pistas y el acto de escribir/apuntar son exclusivos de Fernanda. **Xolo no anota ni lleva cuentas de nada** — el gag de "la cuenta de errores de Ajolote" no existe en la serie (se eliminó de Ep. 3 y Ep. 4).
+
 ## Hechos Establecidos por Episodio
 
 ### Episodio 1 — El Aullido en la Tormenta
@@ -25,7 +29,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - **No es un misterio, es una misión de ayuda.** Doña Chelo se quedó sin cempasúchil (se acabaron en todo el barrio); Ajolote y Xolo juntan flores de casa en casa (Abuela, mamá de Fernanda, Don Pepe) y Ajolote compra el último manojo con todos sus ahorros. Aun así, Ajolote le pone nombre dramático ("Operación Cempasúchil").
 - Alcancía de Ajolote: cochinito de barro con calcomanía de luchador. Tenía "como treinta pesos y un botón". Termina el episodio sin ahorros.
 - Momento ambiguo de "poderes": la "señal" de Ajolote los lleva a la única camioneta que aún tenía flores; Xolo decide no preguntar más.
-- Xolo lleva la cuenta de las veces que Ajolote se equivoca; anota "con lápiz" la primera del lado bueno.
+- Xolo reconoce que Ajolote "hoy no se equivocó ni una vez" y lo desinfla de inmediato ("Mañana es otro día").
 - Don Pepe tiene una pequeña ofrenda en su puesto (veladora, foto, ramo). Gag: "descuento de detective: cien por ciento". Regala mandarinas para la ofrenda de Chelo; Xolo las carga con el hocico.
 - Fernanda da flores de la ofrenda de su mamá y la cubeta con agua; cuenta las flores en su libreta. No acompaña al resto de la misión.
 - La Abuela recompensa a ambos con atole de limón "por andar de caritativos".
@@ -35,7 +39,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 ### Episodio 4 — La Máscara Perdida de Arena México
 
 - **Primera aparición hablada de Kevin "El Presumido".** Vive en "la vecindad de la esquina"; se recarga en la pared de la esquina los viernes. Se burla de la capa ("ya estás grande para eso"), presume datos (Arena México desde 1933), ayuda "nada más porque no tengo nada que hacer" y al final dice que fue idea suya. Primera vez que oye hablar a Xolo; finge que ya sabía. Compra una máscara dorada con brillitos (con etiqueta) afuera de la Arena y se va a la función con ella puesta.
-- **Malentendido con falsa sospecha:** Ajolote acusa a Kevin sin pruebas y se equivoca. Xolo lo anota "con pluma" (callback al lápiz del Ep. 3).
+- **Malentendido con falsa sospecha:** Ajolote acusa a Kevin sin pruebas y se equivoca. Xolo se lo advirtió ("una corazonada con capa"); le recuerda que la "señal" del Ep. 3 funcionó porque no acusó a nadie.
 - **Resolución:** la Abuela se llevó la máscara a arreglar con Don Beto sin avisarle bien a Don Pepe (él dijo "sí, sí, comadre, lo que quieras" distraído con una clienta). La Abuela y Don Pepe se llaman "comadre" / "Pepe".
 - **La máscara de Don Pepe:** dorada con alitas verdes, despintada por el sol, cuelga de un clavo encima del puesto desde siempre. Era de su papá, luchador **técnico** de la Arena México, **El Colibrí Dorado** (ficticio): chiquito y rapidísimo, nunca apostó la máscara, luchó hasta los ~52 años, se la quitó al retirarse en casa y solo Don Pepe lo vio. El puesto era entonces "un carrito". Ahora tiene una costura nueva.
 - Gag invertido: Don Pepe **no** pregunta "¿y hoy contra quién luchas?" al inicio (señal de que algo anda mal); lo pregunta al final. Variante del descuento: "hoy no hay descuento de detective, hoy hay fruta gratis" / Ajolote: "ciento diez por ciento".
