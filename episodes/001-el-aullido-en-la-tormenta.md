@@ -6,7 +6,13 @@
 ---
 
 NARRADOR:
-En la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que cada noche se pone una máscara azul y negra... y está convencido de que eso lo convierte en un superhéroe.
+En la Ciudad de México hay un barrio donde todas las calles se llaman como doctores. Doctor Vértiz. Doctor Lavista. Doctor Balmis. Por eso se llama la Colonia Doctores. Y no, no es que ahí vivan puros doctores. Es que hace mucho, mucho tiempo, alguien decidió que las calles se iban a llamar así... y así se quedaron.
+
+NARRADOR:
+Pero lo más famoso de la Colonia Doctores no son sus doctores. Es la Arena México: un edificio enorme donde, varias noches a la semana, luchadores con máscaras de todos los colores vuelan por los aires mientras miles de personas gritan hasta quedarse sin voz. En este barrio, ver a un señor enmascarado comprando tortillas es de lo más normal del mundo. Nadie voltea a verlo.
+
+NARRADOR:
+Y quizá por eso, en la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que cada noche se pone una máscara azul y negra... y está convencido de que eso lo convierte en un superhéroe.
 
 [SFX: viento y lluvia, truenos lejanos]
 

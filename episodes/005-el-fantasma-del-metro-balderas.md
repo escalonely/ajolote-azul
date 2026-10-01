@@ -6,12 +6,21 @@
 ---
 
 NARRADOR:
-A cinco cuadras de la vecindad, en la esquina donde se juntan dos avenidas grandes, hay un hoyo en la banqueta por donde entra y sale gente todo el día. Arriba tiene un letrero con el dibujo de un cañón. Abajo, dos líneas del Metro se cruzan como si fueran ríos: la rosa y la verde. Eso es Metro Balderas.
+Debajo de la Ciudad de México hay otra ciudad. Una ciudad de túneles largos y oscuros por donde corren trenes anaranjados, uno tras otro, de una punta a la otra, todo el día. Es el Metro. Y lo usan millones de personas: señoras con bolsas del mandado, niños con uniforme, músicos con guitarra, y gente dormida que se pasa de estación.
+
+NARRADOR:
+Los trenes del Metro tienen un secreto que casi nadie nota: no tienen ruedas de fierro, como los trenes de las películas. Casi todos tienen llantas. De hule. Como un camión gigante que va por debajo de la tierra. Y cada estación tiene su propio dibujo: un chapulín, un patito, una campana...
+
+NARRADOR:
+Y como la ciudad es muy, muy vieja, cuando escarbaron los túneles encontraron cosas que llevaban cientos de años enterradas. Pero esa es otra historia.
+
+NARRADOR:
+A cinco cuadras de la vecindad, en la esquina donde se juntan dos avenidas grandes, hay un enorme portón por donde entra y sale gente todo el día. Arriba tiene un letrero con el dibujo de un cañón. Abajo, dos líneas del Metro se cruzan como si fueran ríos: la rosa y la verde. Eso es Metro Balderas.
 
 [SFX: tráfico de avenida, gente caminando, un tren que pasa debajo, amortiguado]
 
 NARRADOR:
-Y esa tarde, en la escuela de Fernanda, todos hablaban de lo mismo.
+Y esa tarde, en la escuela, todos hablaban de lo mismo.
 
 [SFX: puerta de la vecindad, pasos rápidos]
 

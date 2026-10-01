@@ -6,6 +6,15 @@
 ---
 
 NARRADOR:
+Una vez al año, la Ciudad de México se pinta de anaranjado. Y no es por el sol, ni por las hojas de los árboles. Es por una flor.
+
+NARRADOR:
+Es que en México, a las personas que queremos y que ya no están, no se les olvida. Se les espera. Una vez al año, en el Día de Muertos, cada familia les pone una mesa llena de regalos — su comida favorita, su refresco favorito, su foto más bonita — para que vengan de visita, aunque sea una noche.
+
+NARRADOR:
+Y como son visitas muy esperadas, la casa tiene que estar lista. Hay pan espolvoreado de azúcar con huesitos de masa encima. Hay calaveritas de dulce con tu nombre escrito en la frente. Hay papel picado de colores ondeando en cada puerta. No es un día triste. Es una fiesta. La fiesta más grande del año... nada más que a los invitados de honor nadie los ve llegar.
+
+NARRADOR:
 Faltaban dos días para el Día de Muertos, y toda la Colonia Doctores olía a cempasúchil. En cada puerta y en cada ventana había flores anaranjadas, papel picado de muchos colores, y fotografías viejas junto a veladoras.
 
 [SFX: bullicio del barrio, papel picado ondeando con el viento]

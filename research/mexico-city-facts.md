@@ -16,6 +16,8 @@ Datos reales y concretos para cada tema listado en `bible/world.md` → Temas, p
 - El Metro de la Ciudad de México (Sistema de Transporte Colectivo) abrió en 1969.
 - Cada estación tiene su propio pictograma/ícono además de su nombre — diseñado originalmente para ayudar a los pasajeros que no sabían leer a orientarse en el sistema.
 - El pictograma de Balderas es un cañón, en referencia a la Ciudadela (edificio vecino que fue fábrica de tabaco y luego depósito de armas). En Balderas se cruzan la Línea 1 (rosa) y la Línea 3 (verde olivo).
+- Otros pictogramas: Chapultepec = chapulín; Candelaria = pato; Insurgentes = campana (la de Dolores); Pino Suárez = el templo de Ehécatl.
+- La mayoría de las líneas (incluidas la 1 y la 3) usan trenes con llantas neumáticas de hule, no ruedas de acero; los trenes clásicos son de color naranja.
 - Los trenes empujan el aire por delante al avanzar en el túnel (efecto pistón); ese aire escapa por rejillas, escaleras y accesos y produce las ráfagas y silbidos característicos antes de que llegue un tren.
 - Es uno de los sistemas de metro más concurridos de América, con tarifas históricamente muy bajas y planas.
 - La construcción ha revelado hallazgos arqueológicos en varias ocasiones; se encontró un pequeño templo azteca dedicado al dios del viento Ehécatl durante la construcción de la estación Pino Suárez, y se conserva dentro de ella.
