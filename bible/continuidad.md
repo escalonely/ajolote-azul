@@ -5,6 +5,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 ## Reglas de Continuidad Transversales
 
 - **Solo Fernanda anota.** La libreta de pistas y el acto de escribir/apuntar son exclusivos de Fernanda. **Xolo no anota ni lleva cuentas de nada** — el gag de "la cuenta de errores de Ajolote" no existe en la serie (se eliminó de Ep. 3 y Ep. 4).
+- **La Abuela solo cocina de su lista.** Todo lo que la Abuela le da de comer a Ajolote sale de `world.md` → Comida de la Abuela. Usados hasta ahora: pozole (Ep. 1), atole de limón (Ep. 3), guayabas para el agua (Ep. 4), sopa de fideo (Ep. 5).
 
 ## Hechos Establecidos por Episodio
 

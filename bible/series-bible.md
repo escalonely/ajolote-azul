@@ -71,6 +71,7 @@ Pero el niño que escucha debe pensar principalmente:
 - Investigar las referencias culturales en lugar de apoyarnos en estereotipos.
 - Mantener la voz y la forma de hablar de cada personaje consistentes de episodio a episodio.
 - Respetar los rasgos exclusivos de cada personaje.
+- Cuando la Abuela le dé de comer a Ajolote, usar solo platillos de la lista "Comida de la Abuela" en `world.md` (y agregar ahí cualquier platillo nuevo antes de usarlo).
 - Mantener el humor y lo que está en juego apropiado para niños de 5 a 9 años.
 - Hacer que Ajolote le ponga un nombre dramático a cada caso, y que lo diga en voz alta en algún momento del episodio — ese nombre es el título del episodio.
 - Abrir cada episodio con 2-3 bloques del Narrador que den el contexto del tema o lugar (el barrio, la tradición, el Metro...) como **datos curiosos para un niño de 5 años** — imágenes concretas y sorprendentes, nunca fechas ni cifras. Sin adelantar lo que un personaje va a explicar después en la trama.

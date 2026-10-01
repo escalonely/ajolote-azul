@@ -22,6 +22,23 @@
 - **Xochimilco** — los canales, las chinampas (jardines flotantes) y las trajineras; hogar natural para episodios relacionados con el agua y la ecología.
 - **Museos** (por ejemplo, el Museo Nacional de Antropología, el Templo Mayor) — episodios ocasionales de excursión escolar que se conectan directamente con temas de historia mexica/azteca.
 
+## Comida de la Abuela
+
+Lo que la Abuela le da de comer a Ajolote (y a Xolo, en su platito hondo en el suelo) — y que a Ajolote le encanta. Es comida casera, de todos los días, de la Ciudad de México; nada elaborado ni "de restaurante".
+
+**Regla:** cuando la Abuela le dé algo de comer a Ajolote en un episodio, debe ser algo de esta lista. Si un episodio necesita un platillo nuevo, se agrega aquí primero. Esto mantiene la cocina de la Abuela reconocible de episodio a episodio, igual que la voz de un personaje.
+
+- **Pozole** — caliente y con su chile; con esto convenció Ajolote a Xolo de irse a vivir con ellos (Ep. 1).
+- **Atole de limón** — dulce y calientito, en taza; la recompensa "por andar de caritativos" (Ep. 3).
+- **Sopa de fideo** — la cena de cualquier día; la casa huele a ella al volver de un caso (Ep. 5).
+- **Tostadas** — con frijoles, lechuga, crema y lo que haya; Ajolote las muerde de la orilla para que no se le rompan.
+- **Quesadillas** — de queso, de flor de calabaza o de papa, hechas en el comal.
+- **Guayabas** — en fruta o en agua fresca; la Abuela las compra con Don Pepe (Ep. 4).
+- **Tunas** — peladas y frías; la Abuela las pela sin picarse ni una vez, y Ajolote no entiende cómo.
+- **Mangos** — en rebanadas o con chile y limón; también del puesto de Don Pepe.
+- **Nopales** — en ensalada o con huevo; Ajolote dice que son "hojas de cactus" y se los come todos.
+- **Esquites** — en vaso, con limón, chile y queso; la Abuela los hace en casa y le quedan mejor que los de la esquina.
+
 ## Temas
 
 - Día de Muertos — tradiciones, ofrendas, recuerdo familiar.
