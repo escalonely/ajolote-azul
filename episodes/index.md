@@ -9,14 +9,14 @@
 | 3 | [Operación Cempasúchil](003-operacion-cempasuchil.md) | Colonia Doctores (vecindad, puesto de Don Pepe, calles del barrio) | Día de Muertos | Misión de ayuda (sin misterio) | Narrador, Ajolote Azul, Xolo, Abuela, Fernanda, Don Pepe, Doña Chelo | No |
 | 4 | [La Máscara Perdida de Arena México](004-la-mascara-perdida-de-arena-mexico.md) | Colonia Doctores (mercado, esquina de Kevin, Arena México / Dr. Lavista) | Lucha libre | Malentendido (falsa sospecha) | Narrador, Ajolote Azul, Xolo, Abuela, Don Pepe, Kevin, Don Beto (nuevo, incidental) | No |
 | 5 | [El Fantasma del Metro Balderas](005-el-fantasma-del-metro-balderas.md) | Metro Balderas (boca de la estación, vestíbulo, andén) / vecindad | El Metro | Explicación natural | Narrador, Ajolote Azul, Xolo, Abuela, Fernanda, Don Ramón (nuevo) | No |
+| 6 | [El Sabor Secreto de la Abuela](006-el-sabor-secreto-de-la-abuela.md) | Vecindad (cocina) | Comida mexicana (epazote, tamales, gelatina) / tradiciones familiares | Misterio cálido, sin antagonista | Narrador, Ajolote Azul, Xolo, Abuela, Don Pepe | No |
 
-## Episodios Planeados (6-12)
+## Episodios Planeados (7-12)
 
 Temporada 1 definida en 12 episodios. Orden pensado para repartir los 3 episodios "especiales" (P7, P10, P12) a lo largo de la temporada en vez de agruparlos, y para que Kevin (fricción leve) no aparezca en episodios seguidos.
 
 | # | Título tentativo | Lugar | Tema educativo | Tipo de misterio | Personajes | ¿Especial? |
 |---|---|---|---|---|---|---|
-| 6 | El Sabor Secreto de la Abuela | Vecindad (cocina) | Comida mexicana / tradiciones familiares | Misterio cálido, sin antagonista | Abuela, Don Pepe | No |
 | 7 | El Misterio de la Chinampa Flotante | Xochimilco | Chinampas / ecología | Explicación natural | Fernanda, trajinero (nuevo) | Sí |
 | 8 | El Ajolote Que No Era Azul | Mercado / tianguis | Animales locales (el ajolote real) | Cuasi-antagonista (vendedor desinformado) | Xolo, vendedor (nuevo) | No |
 | 9 | Las Huellas en la Azotea | Vecindad (azotea) | Arquitectura local | Misterio doméstico ligero | Doña Chelo, Abuela | No |
@@ -25,7 +25,6 @@ Temporada 1 definida en 12 episodios. Orden pensado para repartir los 3 episodio
 | 12 | El Cofre del Templo Mayor | Museo / Templo Mayor | Los aztecas/mexicas | Malentendido institucional | Fernanda, Kevin, guía de museo (nuevo) | Sí |
 
 Nota: el episodio 11 es literalmente el ejemplo usado en `series-bible.md` → Filosofía Educativa — buen candidato por continuidad con la propia biblia. El episodio 12 cierra la temporada con el tema histórico más grande (aztecas/mexicas) en el escenario más especial (museo).
-
 
 
 
