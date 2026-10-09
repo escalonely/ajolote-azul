@@ -1,6 +1,6 @@
 # Episodio 1: El Aullido en la Tormenta
 
-**Duración estimada:** 7-8 minutos
+**Duración estimada:** 8-9 minutos
 **Personajes en este episodio:** Narrador, Ajolote Azul, Xolo, Abuela
 
 ---
@@ -9,7 +9,7 @@ NARRADOR:
 En la Ciudad de México hay un barrio donde todas las calles se llaman como doctores. Doctor Vértiz. Doctor Lavista. Doctor Balmis. Por eso se llama la Colonia Doctores. Y no, no es que ahí vivan puros doctores. Es que hace mucho, mucho tiempo, alguien decidió que las calles se iban a llamar así... y así se quedaron.
 
 NARRADOR:
-Pero lo más famoso de la Colonia Doctores no son sus doctores. Es la Arena México: un edificio enorme donde, varias noches a la semana, luchadores con máscaras de todos los colores vuelan por los aires mientras miles de personas gritan hasta quedarse sin voz. En este barrio, ver a un señor enmascarado comprando tortillas es de lo más normal del mundo. Nadie voltea a verlo.
+Pero lo más famoso de la Colonia Doctores no son sus doctores. Es la Arena México: un edificio enorme donde, varias noches a la semana, luchadores con máscaras de todos los colores vuelan por los aires mientras miles de personas gritan hasta quedarse sin voz. En este barrio, ver a un señor enmascarado comprando tortillas es de lo más normal del mundo.
 
 NARRADOR:
 Y quizá por eso, en la Colonia Doctores, a unas cuadras de la Arena México, vive un niño que cada noche se pone una máscara azul y negra... y está convencido de que eso lo convierte en un superhéroe.
@@ -28,7 +28,7 @@ Nadie le había pedido que patrullara nada. Pero esa noche, entre el ruido de lo
 [SFX: aullido lejano, apagado y asustado]
 
 AJOLOTE: [whispering]
-...¿Oyeron eso?
+...¿Que fué eso?
 
 AJOLOTE: [excited]
 ¡Una señal! Alguien —o *algo*— necesita ayuda.
@@ -59,7 +59,29 @@ AJOLOTE: [pause]
 Bueno. Ese no era el misterio.
 
 NARRADOR:
-Pero el aullido volvió a sonar, esta vez más cerca del mercado, justo donde Don Pepe guarda sus cajas de fruta.
+Ajolote se quedó quieto para escuchar. La lluvia golpeaba los toldos y el agua corría por la banqueta. Por un momento, no oyó nada.
+
+[SFX: lluvia sobre toldo, pasos chapoteando]
+
+AJOLOTE: [whispering]
+¿De dónde viene ese aullido? ¿De la calle de allá... o de la otra?
+
+NARRADOR:
+Se asomó por un callejón de donde provenía otro ruido, pero resultó solo ser una cubeta rodando con el viento. 
+
+[SFX: aullido lejano, apagado]
+
+NARRADOR:
+El aullido sonó otra vez, pero el viento hacía dificil saber de qué dirección venía. Ajolote dio media vuelta, cruzó junto a los puestos cerrados y preguntó en voz baja a una señora que recogía sus cosas.
+
+AJOLOTE:
+Disculpe, ¿vio de dónde viene ese aullido?
+
+NARRADOR:
+La señora señaló hacia el mercado. Ajolote siguió por ahí, revisó detrás de unas cajas vacías y casi se resbaló en un charco. Entonces volvió a oírlo.
+
+NARRADOR:
+Esta vez sí: el aullido venía de la esquina, justo donde Don Pepe guarda sus cajas de fruta.
 
 [SFX: aullido más cercano]
 
@@ -105,11 +127,23 @@ Ajá. Eso es justo lo que diría un perro con un secreto muy grande.
 XOLO: [sigh]
 ...Me vas a caer bien, y eso me preocupa.
 
+AJOLOTE: [gentle]
+Oye, ¿y por qué estabas aquí solo? ¿No tienes casa?
+
+XOLO: [quiet]
+No. Soy un perro callejero. Me refugio donde puedo: a veces detrás del mercado, a veces debajo de un coche estacionado.
+
+AJOLOTE:
+¿Y nadie te cuida?
+
+XOLO:
+Hay gente buena que me comparte comida, como Don Pepe. Pero no tengo un hogar. Cuando encuentro un lugar tranquilo, intento quedarme... pero nunca dura mucho tiempo.
+
 NARRADOR:
 Ajolote no lo pensó ni un segundo.
 
 AJOLOTE:
-Vente. Mi abuela hace el mejor pozole de toda la cuadra, y allá no hay cuetes.
+Vente conmigo. Puedes pasar la noche bajo techo y mañana vemos. Mi abuela hace el mejor pozole de toda la cuadra, y allá no hay cuetes.
 
 XOLO: [pause]
 ...¿Pozole?

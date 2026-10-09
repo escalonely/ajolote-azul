@@ -21,7 +21,7 @@ FERNANDA: [unimpressed]
 Un superhéroe con hambre, tal vez sí.
 
 NARRADOR:
-Ajolote se detuvo en seco. En el suelo, un camino de semillas oscuras y arrugadas se perdía entre los puestos, calle abajo.
+Ajolote se detuvo en seco. En el suelo, un curioso camino de semillas oscuras y arrugadas se perdía entre los puestos, calle abajo.
 
 AJOLOTE: [gasps]
 ¡Fernanda! ¡Mira eso! ¡Un caminito de semillas! Si lo seguimos... ¡seguro nos llevará a un tesoro!
@@ -86,7 +86,7 @@ NARRADOR:
 Don Pepe estaba de rodillas junto a su puesto de frutas, revisando el suelo con la cara pálida.
 
 DON PEPE: [worried]
-No, no, no... si se me riega todo, no queda nada...
+No, no, no... ya las perdí toditas.
 
 AJOLOTE: [concerned]
 ¿Don Pepe? ¿Está usted bien?
@@ -125,7 +125,7 @@ AJOLOTE: [shocked]
 ¡¿CON CACAO?! [pause] ¡No manches! ¿Y si alguien se lo comía sin querer?
 
 DON PEPE: [laughs]
-Más seguido de lo que crees, m'ijo.
+Eso pasaba más seguido de lo que crees, m'ijo.
 
 NARRADOR:
 Don Pepe se rió con ganas, y luego, ya más tranquilo, volvió a ser el de siempre.
@@ -142,6 +142,15 @@ Ajá. Pero al final, lo que encontramos sí *fue* un tesoro.
 NARRADOR:
 Fernanda cerró su libreta con una sonrisa que casi — casi — no intentó esconder.
 
+AJOLOTE:
+Oiga Don Pepe, pero hay algo que todavía no entiendo...
+
+AJOLOTE: [incredulous]
+¿El mole lleva cacao?
+
+DON PEPE: [warm]
+Sí, m'ijo. No todos los moles llevan cacao, pero en la receta de mi familia le ponemos bastante. No queda dulce; le da un sabor más profundo y ayuda a equilibrar los chiles. ¡Bien sabroso!
+
 NARRADOR: [warm]
 Y así, entre puestos que se armaban y desarmaban como por magia, la Colonia Doctores guardó un secreto más: en algún cajón, dos niños ahora guardaban un puñito de semillas que, hace quinientos años, habría bastado para comprar una cena entera.
 
@@ -155,7 +164,7 @@ El siguiente misterio de Ajolote Azul está más cerca de lo que creen.
 ## Notas de Continuidad
 
 - Primera aparición hablada de Fernanda y de Don Pepe.
-- Es Don Pepe (no un personaje nuevo) quien pierde y recupera el cacao — el elenco de este episodio queda reducido a Fernanda y Don Pepe.
+- Es Don Pepe quien pierde y recupera el cacao.
 - Dato educativo: en el tianguis de Tlatelolco, los mexicas usaban granos de cacao como moneda (temas "Mercados / economía local" y "Los aztecas/mexicas").
 - Misterio tipo "malentendido" sin antagonista, según `series-bible.md`.
 - Ajolote anuncia el nombre del caso ("El Caso del Tesoro en la Tianguis") en voz alta — coincide con el título del episodio.
