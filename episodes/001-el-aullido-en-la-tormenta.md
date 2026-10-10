@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Episodio 1: El Aullido en la Tormenta
 
 **Duración estimada:** 8-9 minutos

@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Episodio 2: El Caso del Tesoro en la Tianguis
 
 **Duración estimada:** 6-7 minutos

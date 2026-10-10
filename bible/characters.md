@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Personajes Principales
 
 ## Ajolote Azul

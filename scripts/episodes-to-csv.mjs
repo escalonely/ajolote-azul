@@ -1,3 +1,4 @@
+// D.R. © 2026 Bernardo Escalona Espinosa.
 // Genera build/csv/*.csv (speaker,line) desde episodes/*.md para "Import Script" de ElevenLabs.
 // Uso: node scripts/episodes-to-csv.mjs [--strip-tags]
 import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";

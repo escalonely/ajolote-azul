@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Ajolote Azul
 
 ![Ajolote Azul](images/AjoloteAzulBanner02.png)

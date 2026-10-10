@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Episodio 3: Operación Cempasúchil
 
 **Duración estimada:** 6-7 minutos

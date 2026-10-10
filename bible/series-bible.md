@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Biblia de la Serie
 
 ## Tareas Principales para el Modelo de IA

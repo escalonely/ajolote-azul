@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Episodio 5: El Fantasma del Metro Balderas
 
 **Duración estimada:** 6-7 minutos

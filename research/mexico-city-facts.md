@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 ## Cómo usar este archivo
 
 Datos reales y concretos para cada tema listado en `bible/world.md` → Temas, pensados para mantener los episodios culturalmente y factualmente precisos. Son puntos de partida, no son exhaustivos — verifica cifras o fechas específicas antes de fijarlas en un guion.

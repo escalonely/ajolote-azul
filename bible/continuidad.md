@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Continuidad de la Serie
 
 Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados en episodios publicados. Actualizar después de escribir cada episodio nuevo, para mantener consistencia sin tener que releer todos los guiones anteriores.

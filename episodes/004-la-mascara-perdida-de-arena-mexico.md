@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Episodio 4: La Máscara Perdida de Arena México
 
 **Duración estimada:** 7-8 minutos

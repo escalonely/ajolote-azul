@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Reglas del Lenguaje
 
 - Los diálogos son genuinamente mexicanos, en lugar de espolvorear unas cuantas palabras estereotipadas sobre un español neutro.
