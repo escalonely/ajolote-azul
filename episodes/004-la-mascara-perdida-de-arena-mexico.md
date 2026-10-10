@@ -8,16 +8,16 @@
 ---
 
 NARRADOR:
-En la Colonia Doctores hay un edificio grandote, con letras enormes en la fachada, al que le dicen "La Catedral de la Lucha Libre". Le dicen catedral, pero adentro no hay campanas. Hay un cuadrilátero con cuerdas, miles de asientos, y señores y señoras gritando con todas sus fuerzas.
+En la Colonia Doctores hay un edificio grandote, con letras enormes en la fachada, al que le dicen "La Catedral de la Lucha Libre". Le dicen catedral, pero adentro no hay campanas. Hay un ring con cuerdas, miles de asientos, y espectadores y espectadoras gritando con todas sus fuerzas.
 
 NARRADOR:
-La lucha libre es así: los luchadores se suben al ring con máscaras de colores brillantes y capas que vuelan. Unos son los técnicos, los buenos, y el público los quiere. Otros son los rudos, los malos, y el público los abuchea... aunque en secreto también los quiere. Saltan desde las cuerdas, giran en el aire, caen, y se vuelven a levantar.
+La lucha libre es así: los luchadores se suben al ring con máscaras de colores brillantes y capas que vuelan. Unos son los técnicos, los buenos, y el público los quiere. Otros son los rudos, los malos, y el público los abuchea... aunque en secreto también los quiere. Saltan desde las cuerdas, giran en el aire, caen unos encima otros, y se vuelven a levantar.
 
 NARRADOR:
 Y lo más importante de todo es la máscara. Hay luchadores que nunca, nunca se la quitan en público. Ni sus vecinos saben quiénes son. Pueden pasar junto a ti en el mercado, y tú ni enterado.
 
 NARRADOR:
-Por eso, en la Colonia Doctores, los viernes se sienten distintos. Desde temprano, alrededor de la Arena México, empiezan a aparecer puestos de máscaras de todos los colores, y para la noche, la calle entera huele a elotes y suena a gente que va a ver luchas.
+Por eso, en la Colonia Doctores, los viernes se sienten distintos. Desde temprano, alrededor de la Arena México, empiezan a aparecer puestos de máscaras de todos los colores, y para la noche, la calle entera huele a elotes y suena a gente que viene a ver las luchas.
 
 [SFX: calle de barrio, vendedores acomodando puestos, un camión que pasa]
 
@@ -85,16 +85,7 @@ NARRADOR:
 Ajolote se puso muy derecho, se acomodó la capa, y Xolo supo lo que venía.
 
 AJOLOTE: [dramatic]
-Don Pepe, no se preocupe. Ajolote Azul se hace cargo. Este caso se llamará... ¡El Caso de la Máscara Perdida de Arena México!
-
-XOLO: [dry]
-La máscara se perdió en el mercado. La Arena está a tres cuadras.
-
-AJOLOTE:
-Pero es una máscara *de* la Arena México. Y suena mejor.
-
-XOLO:
-Eso sí.
+Don Pepe, no se preocupe. Ajolote Azul se hace cargo. Este caso se llamará... ¡El Caso de la Máscara Perdida!
 
 NARRADOR:
 Ajolote sacó el pecho y empezó como empiezan todos los detectives: haciendo preguntas.
@@ -126,11 +117,11 @@ Kevin.
 XOLO: [warning]
 Ajolote...
 
-AJOLOTE:
-¡Kevin la vio, Kevin dijo que estaba vieja, y hoy Kevin tiene "una mejor"! ¡Xolo, es obvio!
+NARRADOR:
+TODO: explica el background de Kevin
 
-XOLO:
-Eso no es obvio. Eso es una corazonada con capa.
+AJOLOTE:
+¡Kevin la vio, Kevin dijo que estaba vieja, y hoy Kevin tiene "una mejor"! ¡Es obvio!
 
 AJOLOTE: [excited]
 ¡Vamos, Xolo! ¡La justicia no espera!
