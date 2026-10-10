@@ -26,6 +26,12 @@ Los guiones se escriben para producirse con motores de texto a voz por IA como E
 
 La biblia de la serie se está escribiendo primero, para fijar la continuidad, los personajes y el tono antes de redactar los guiones de los episodios.
 
+## Autoría y licencia
+
+Escrito por Bernardo Escalona Espinosa con asistencia de Claude Sonnet.
+
+D.R. © 2026 Bernardo Escalona Espinosa. Licenciado bajo [Apache License 2.0](LICENSE).
+
 ---
 
 # Ajolote Azul
@@ -51,3 +57,9 @@ Scripts are written to be produced with AI text-to-speech engines such as Eleven
 ## Status
 
 The series bible is being written first, to lock down continuity, characters, and tone before episode scripts are drafted.
+
+## Author and license
+
+Written by Bernardo Escalona Espinosa with the assistance of Claude Sonnet.
+
+Copyright © 2026 Bernardo Escalona Espinosa. Licensed under the [Apache License 2.0](LICENSE).
