@@ -101,7 +101,7 @@ NARRADOR:
 Olió el frasco otra vez. Luego, la segunda planta.
 
 AJOLOTE:
-Esta huele a... ¡taquería!
+Esta huele a... ¡tacos al pastor!
 
 XOLO: [dry]
 Cilantro. Tampoco.
@@ -160,10 +160,10 @@ El segundo quedó mejor. El tercero, bastante bien. Y el cuarto quedó tan chuec
 [SFX: tapa de olla al cerrarse, vapor suave]
 
 NARRADOR:
-Mientras los tamales se cocían, la Abuela puso sobre la mesa un sobre de gelatina de fresa y una bolsa de fresas.
+Mientras los tamales se cocían, la Abuela puso sobre la mesa un sobrecito de gelatina y una bolsa de fresas.
 
 ABUELA:
-Y de postre, gelatina.
+Y de postre, va a haber gelatina.
 
 AJOLOTE:
 ¿De fresa? ¡Mi favorita!
@@ -172,7 +172,7 @@ XOLO:
 Todas son tu favorita.
 
 ABUELA: [conspiratorial]
-Pero esta tiene su secreto. Casi todos la hacen nada más con el sobre. Yo le pongo fresas de deveras, picaditas. Así queda más buena, y cada cucharada trae su sorpresa.
+Esta tambien tiene su secreto. Casi todos la hacen nada más con el sobre. Yo le pongo fresas de deveras, picaditas. Así queda más buena, y cada cucharada trae su sorpresa.
 
 AJOLOTE: [gasps]
 ¡Otro secreto de cocina!
@@ -180,7 +180,7 @@ AJOLOTE: [gasps]
 ABUELA:
 Ayúdame. Lava las fresas en el lavabo y córtalas en pedacitos.
 
-[SFX: agua de la llave, cuchillo sobre tabla]
+[SFX: agua de la llave, cuchillo sobre tabla] 
 
 NARRADOR:
 Ajolote se subió a un banquito junto al lavabo y lavó las fresas una por una, como si fueran joyas. Luego, con un cuchillo chico y la Abuela vigilando a su lado, las cortó en pedacitos.
@@ -198,19 +198,13 @@ XOLO:
 Esa cuenta como evidencia.
 
 NARRADOR:
-El agua caliente para la gelatina la preparó la Abuela solita, porque quemaba. Después, Ajolote echó los pedacitos de fresa, y la Abuela metió el molde al refrigerador.
+La Abuela preparó el agua caliente para la gelatina. Después, Ajolote echó los pedacitos de fresa, y la Abuela metió el molde al refrigerador.
 
 NARRADOR:
-Con los tamales en la olla y la gelatina en el refrigerador, la Abuela limpió con cuidado la página de la libreta. La mancha no se quitó, pero ya no importaba: en el margen, junto a una pequeña mancha verde, todavía se alcanzaba a leer una palabra escrita por su mamá: “epazote”.
-
-ABUELA: [moved]
-Mira nada más. Lo había anotado aquí. Esta es su letra.
-
-DON PEPE:
-¿Ya ves cómo sí te acordaste? Nomás necesitabas un poquito de ayuda para encontrarlo.
+Con los tamales en la olla y la gelatina en el refrigerador, la Abuela limpió con cuidado la página de la libreta, pero no pudo quitar la mancha de mole.
 
 ABUELA:
-Ajolote, escríbelo tú también, debajo de la letra de mi mamá. Para que la próxima vez no se nos pierda.
+Ajolote, escríbelo aqui otra vez, debajo de la mancha. Para que la próxima vez yo lo pueda leer.
 
 AJOLOTE: [solemn]
 ¿Yo? ¿En la libreta de la familia?
@@ -231,9 +225,6 @@ Son cuatro sílabas, no una ceremonia.
 
 AJOLOTE:
 Shhh. Es letra de superhéroe.
-
-NARRADOR:
-Cuando terminó, había dos “epazote” en la misma página: uno con la letra firme de la mamá de la Abuela, y otro grandote y chueco, con la zeta hacia atrás. La Abuela los miró un buen rato.
 
 ABUELA: [warm]
 Así está mejor. Ahora sí está completa la receta.
@@ -260,7 +251,7 @@ XOLO:
 Trato hecho.
 
 NARRADOR:
-Esa tarde, todos probaron los tamales. Ajolote contó cómo había resuelto el caso; Xolo explicó que en realidad solo habían olido unas macetas; y Don Pepe pidió otro tamal, por si acaso la receta necesitaba una segunda prueba.
+Esa tarde, todos probaron los tamales. Ajolote contó cómo había resuelto el caso; Xolo explicó que en realidad solo habían olido unas macetas; y Don Pepe pidió otro tamal, por si acaso la receta necesitaba una segunda probada.
 
 NARRADOR:
 Y de postre salió la gelatina de fresa. En cada cucharada aparecía un trocito de fruta.
@@ -269,7 +260,7 @@ AJOLOTE: [proud]
 ¡Mira! ¡Una fresa que corté yo!
 
 XOLO: [dry]
-Seguro es la más grande. Esa no la contó nadie.
+Seguro es la más grande. 
 
 NARRADOR: [warm]
 La mancha seguía ahí en la libreta. Pero la receta no se había perdido: vivía en los recuerdos de la Abuela, en la ayuda de sus amigos y en cada tamal que compartieron alrededor de la mesa.
@@ -286,6 +277,6 @@ Ajolote Azul volverá... muy pronto.
 - La receta familiar de tamales de frijol de la Abuela lleva epazote; ella explica que es una hierba aromática usada para sazonar frijoles y otros guisos.
 - En el patio de la vecindad hay macetas con epazote, hierbabuena y cilantro; Ajolote y Xolo comparan el olor del frasco con el de las plantas para identificar el epazote fresco.
 - Segundo secreto de cocina de la Abuela: su gelatina de fresa lleva fresas de verdad picadas. Ajolote ayuda a lavarlas y cortarlas; la Abuela se encarga del agua caliente.
-- Ajolote escribe "epazote" en la libreta familiar con su propia letra, debajo de la de la mamá de la Abuela, diciendo cada sílaba en voz alta: "e... pa... zo... te".
+- Ajolote escribe "epazote" en la libreta familiar con su propia letra.
 - La Abuela aprendió la receta de su mamá y la prepara para compartirla en una reunión familiar anual.
-- Don Pepe recuerda haber probado los tamales de la mamá de la Abuela y ayuda a reconocer el epazote por su aroma.
+- Don Pepe recuerda haber probado los tamales de la mamá de la Abuela.
