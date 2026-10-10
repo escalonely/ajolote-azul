@@ -1,3 +1,5 @@
+<!-- D.R. © 2026 Bernardo Escalona Espinosa. -->
+
 # Episodio 6: El Sabor Secreto de la Abuela
 
 **Duración estimada:** 8-9 minutos
@@ -9,90 +11,74 @@ NARRADOR:
 En la vecindad había días de mucho ruido: días de carreras por el patio, de cumbias en el radio y de Ajolote Azul anunciando algún misterio a todo pulmón. Pero también había días de cocina. Días en que desde temprano se oía el vapor de las ollas, se amasaba sobre la mesa y el olor rico se escapaba por todas las ventanas.
 
 NARRADOR:
-Ese era uno de esos días. La familia de Ajolote se reuniría por la tarde, como hacía todos los domingos, y la Abuela había prometido preparar tamales de frijol. Don Pepe ya estaba ahí para ayudar. Lo único que faltaba era encontrar el sabor de una receta muy especial.
+Este era uno de esos días. La familia de Ajolote se reuniría por la tarde, como hacía todos los domingos, y la Abuela había prometido preparar tamales de frijol. Don Pepe tambien ya estaba ahí para ayudar. Lo único que faltaba era encontrar el sabor de una receta muy especial.
 
 [SFX: olla hirviendo suavemente, hojas de maíz al acomodarse]
 
 ABUELA:
-La masa ya está lista. Los frijoles también. Ahora nomás falta el toque de la receta de mi mamá.
+La masa ya está lista. Los frijoles también. Pero creo que algo falta... ¿Pero que? ¡Ay, esta memoria mía! Tu abuela ya está bien vieja, mijo.
 
 AJOLOTE: [curious]
-¿Qué toque, Abuela?
+¿Qué dice la receta, Abue? 
 
-ABUELA:
-El sabor que hacía que todos pidieran otro tamal. Mi mamá me enseñó la receta cuando yo era niña, pero hace mucho que no la preparo.
+ABUELA: [chuckling]
+¡Ay, que tonta! Pues claro, nada más hay que checar que dice la receta. 
+
+[SFX: se abre un cajón de una alacena]
+
+NARRADOR:
+La Abuela sacó de un cajón una libreta vieja, con las esquinas dobladas y manchas de harina en la tapa. Entre sus páginas había una receta escrita a mano. Pero una mancha de mole había caído justo a la mitad.
+
+ABUELA: [quiet]
+Aquí dice qué ponerle al relleno. Alcanzo a leer: “agrega unas hojitas de...” Y ya no veo más. Aver mijo, tu tienes mejores ojos que tu abuela.
+
+NARRADOR:
+La Abuela acercó la libreta a Ajolote.
+
+AJOLOTE: [slowly]
+E... pa... zo... te.
+
+AJOLOTE: 
+¡Epazote! ¿Que es eso, Abuela?
+
+ABUELA: [joyful]
+¡Claro, epazote! ¿Cómo se me pudo olvidar? Si ese era el toque especial de la receta de mi mamá.
+
+ABUELA: [warm]
+El epazote es una hierba que se usa para darle sabor a la comida. Sus hojas tienen un olor muy especial, fuertecito. En muchas cocinas se pone un poquito en los frijoles o en otros guisos. Mi mamá le echaba unas hojas al relleno de estos tamales. Ella me enseñó la receta cuando yo era niña, pero hace mucho que no la preparo.
 
 DON PEPE:
 Yo me acuerdo de esos tamales. Tu mamá hacía suficientes para todo el mundo... pero eran tan buenos que SIEMPRE se acababan.
 
-XOLO: [dry]
-Eso suena a que es una receta muy sabrosa.
-
-NARRADOR:
-La Abuela sacó de un cajón una libreta vieja, con las esquinas dobladas y manchas de harina en la tapa. Entre sus páginas había una receta escrita a mano. Pero una mancha de agua había borrado justo una línea.
-
-ABUELA: [quiet]
-Aquí decía qué ponerle al relleno. Alcancé a leer: “agrega unas hojitas de...” Y ya no se ve más.
-
-AJOLOTE: [dramatic]
-¡Una receta incompleta! ¡Un sabor perdido! ¡Este caso se llamará... el Misterio del Sabor Secreto de la Abuela!
-
-XOLO:
-No es un misterio. Sólo se mojó la libreta.
-
-AJOLOTE:
-Eso diría alguien que todavía no ha probado los tamales.
-
-NARRADOR:
-Ajolote examinó la página como si buscara huellas. Xolo olfateó la libreta. Don Pepe se quedó mirando la receta, pensativo.
-
-DON PEPE:
-Tu mamá siempre tenía unas hojas verdes en un frasquito, junto a la ventana. Olían fuerte. Cuando las echaba a la olla, toda la cocina olía distinto.
-
-ABUELA: [remembering]
-Sí... ahora que lo dices, había una maceta en el patio de su casa. Pero no me acuerdo cómo se llamaba la hierba.
-
-AJOLOTE:
-¡Tenemos una pista! Hojas verdes, olor fuerte, una maceta... Xolo, activa tu súper olfato.
-
-XOLO:
-Mi olfato ya está activo. Lo que necesito es que dejes de mover la libreta: le estás haciendo viento.
+XOLO: [hungry]
+Eso suena a que es una receta muy sabrosa. Ya se me antojaron.
 
 NARRADOR:
 La Abuela revisó el estante de las especias y encontró varios frasquitos sin etiqueta. Don Pepe los abrió uno por uno, con cuidado, para que todos pudieran olerlos.
 
 DON PEPE:
-Canela... comino... y este huele a hierba. Fuertecita.
-
-ABUELA: [softly]
-¡Epazote! Así se llamaba. Mi mamá lo usaba para los frijoles.
-
-AJOLOTE:
-¿Epazote? ¿Eso qué es?
-
-ABUELA:
-Es una hierba que se usa para darle sabor a la comida. Sus hojas tienen un olor muy especial, fuertecito. En muchas cocinas se pone un poquito en los frijoles o en otros guisos. Mi mamá le echaba unas hojas al relleno de estos tamales.
-
-XOLO:
-Entonces la pista estaba en el recuerdo de Don Pepe y en el olor.
-
-DON PEPE:
-Y en que la Abuela conoce la receta mejor de lo que cree.
+Canela... comino... y este huele a la hierba. Fuertecita.
 
 NARRADOR:
-La Abuela sonrió y destapó el frasquito. Lo inclinó sobre su mano y cayeron apenas unas hojitas secas, casi migajas.
+La Abuela sonrió y tomó el frasquito. Lo inclinó sobre su mano y cayeron apenas unas hojitas secas, casi migajas.
 
 ABUELA:
 Uy. Con esto no alcanza ni para la mitad del relleno. Y el seco huele poquito. Mejor fresco. [pause] Ajolote, en el patio, entre las macetas de la entrada, hay epazote. Anda a cortar un poco.
 
 AJOLOTE: [dramatic]
-¿Una misión? ¿Con hierbas secretas? ¡Esto es... la Misión Epazote!
+¿Una misión? ¿Con hierbas secretas? ¡Y una receta incompleta! ¡Este caso se llamará... el Misterio del Sabor Secreto de la Abuela!
 
 ABUELA:
-Llévate el frasquito, para que compares el olor. Y córtale nada más las hojitas de arriba, sin arrancar la planta.
+Si, ándale mijito. Llévate el frasquito, para que compares el olor. Y córtale nada más las hojitas de arriba, sin arrancar la planta.
 
 XOLO:
 Voy contigo. Alguien tiene que evitar que te traigas la maceta entera.
+
+AJOLOTE:
+¡Tenemos una pista! Hojas verdes, olor fuerte, una maceta... Xolo, activa tu súper olfato.
+
+XOLO:
+Mi olfato SIEMPRE está activo. ¡Vamos!
 
 [SFX: puerta de la cocina, pasos en el patio, un pájaro a lo lejos]
 
@@ -223,6 +209,35 @@ Mira nada más. Lo había anotado aquí. Esta es su letra.
 DON PEPE:
 ¿Ya ves cómo sí te acordaste? Nomás necesitabas un poquito de ayuda para encontrarlo.
 
+ABUELA:
+Ajolote, escríbelo tú también, debajo de la letra de mi mamá. Para que la próxima vez no se nos pierda.
+
+AJOLOTE: [solemn]
+¿Yo? ¿En la libreta de la familia?
+
+ABUELA:
+Tú ayudaste a encontrarlo.
+
+NARRADOR:
+Ajolote tomó el lápiz con las dos manos y se acercó a la página, tan despacito como si fuera a firmar un tratado internacional. Y mientras escribía, fue diciendo cada sílaba en voz alta.
+
+[SFX: lápiz raspando el papel]
+
+AJOLOTE: [slowly]
+E... pa... zo... te.
+
+XOLO:
+Son cuatro sílabas, no una ceremonia.
+
+AJOLOTE:
+Shhh. Es letra de superhéroe.
+
+NARRADOR:
+Cuando terminó, había dos “epazote” en la misma página: uno con la letra firme de la mamá de la Abuela, y otro grandote y chueco, con la zeta hacia atrás. La Abuela los miró un buen rato.
+
+ABUELA: [warm]
+Así está mejor. Ahora sí está completa la receta.
+
 NARRADOR:
 Cuando los tamales estuvieron listos, llegó la familia. Se sentaron todos juntos alrededor de la mesa. Ajolote esperó a que la Abuela probara primero.
 
@@ -257,7 +272,7 @@ XOLO: [dry]
 Seguro es la más grande. Esa no la contó nadie.
 
 NARRADOR: [warm]
-La libreta seguía incompleta. Pero la receta no se había perdido: vivía en los recuerdos de la Abuela, en la ayuda de sus amigos y en cada tamal que compartieron alrededor de la mesa.
+La mancha seguía ahí en la libreta. Pero la receta no se había perdido: vivía en los recuerdos de la Abuela, en la ayuda de sus amigos y en cada tamal que compartieron alrededor de la mesa.
 
 NARRADOR:
 Ajolote Azul volverá... muy pronto.
@@ -271,5 +286,6 @@ Ajolote Azul volverá... muy pronto.
 - La receta familiar de tamales de frijol de la Abuela lleva epazote; ella explica que es una hierba aromática usada para sazonar frijoles y otros guisos.
 - En el patio de la vecindad hay macetas con epazote, hierbabuena y cilantro; Ajolote y Xolo comparan el olor del frasco con el de las plantas para identificar el epazote fresco.
 - Segundo secreto de cocina de la Abuela: su gelatina de fresa lleva fresas de verdad picadas. Ajolote ayuda a lavarlas y cortarlas; la Abuela se encarga del agua caliente.
+- Ajolote escribe "epazote" en la libreta familiar con su propia letra, debajo de la de la mamá de la Abuela, diciendo cada sílaba en voz alta: "e... pa... zo... te".
 - La Abuela aprendió la receta de su mamá y la prepara para compartirla en una reunión familiar anual.
 - Don Pepe recuerda haber probado los tamales de la mamá de la Abuela y ayuda a reconocer el epazote por su aroma.
