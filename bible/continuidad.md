@@ -7,7 +7,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 ## Reglas de Continuidad Transversales
 
 - **Solo Fernanda anota.** La libreta de pistas y el acto de escribir/apuntar son exclusivos de Fernanda. **Xolo no anota ni lleva cuentas de nada** — el gag de "la cuenta de errores de Ajolote" no existe en la serie (se eliminó de Ep. 3 y Ep. 4).
-- **La Abuela solo cocina de su lista.** Todo lo que la Abuela le da de comer a Ajolote sale de `world.md` → Comida de la Abuela. Usados hasta ahora: pozole (Ep. 1), atole de limón (Ep. 3), guayabas para el agua (Ep. 4), sopa de fideo (Ep. 5).
+- **La Abuela solo cocina de su lista.** Todo lo que la Abuela le da de comer a Ajolote sale de `world.md` → Comida de la Abuela. Usados hasta ahora: pozole (Ep. 1), atole de limón (Ep. 3), guayabas para el agua (Ep. 4), sopa de fideo (Ep. 5), tamales de frijol y gelatina de fresa (Ep. 6), quesadillas de flor de calabaza (Ep. 7).
 
 ## Hechos Establecidos por Episodio
 
@@ -30,7 +30,7 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 
 - Primera aparición hablada de Doña Chelo: silla afuera de su puerta, Michu en las piernas, y en cuanto pasa algo se lo cuenta a toda la vecindad. Insiste en que Michu "ya sabía".
 - **No es un misterio, es una misión de ayuda.** Doña Chelo se quedó sin cempasúchil (se acabaron en todo el barrio); Ajolote y Xolo juntan flores de casa en casa (Abuela, mamá de Fernanda, Don Pepe) y Ajolote compra el último manojo con todos sus ahorros. Aun así, Ajolote le pone nombre dramático ("Operación Cempasúchil").
-- Alcancía de Ajolote: cochinito de barro con calcomanía de luchador. Tenía "como treinta pesos y un botón". Termina el episodio sin ahorros.
+- Alcancía de Ajolote: cochinito de plástico con calcomanía de luchador. Tenía "como treinta pesos y un botón". Termina el episodio sin ahorros.
 - Momento ambiguo de "poderes": la "señal" de Ajolote los lleva a la única camioneta que aún tenía flores; Xolo decide no preguntar más.
 - Xolo reconoce que Ajolote "hoy no se equivocó ni una vez" y lo desinfla de inmediato ("Mañana es otro día").
 - Don Pepe tiene una pequeña ofrenda en su puesto (veladora, foto, ramo). Gag: "descuento de detective: cien por ciento". Regala mandarinas para la ofrenda de Chelo; Xolo las carga con el hocico.
@@ -65,6 +65,29 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Datos educativos: pictograma de Balderas = cañón por la Ciudadela (antiguo depósito de armas), y cada estación tiene dibujo para quien no sabía leer; efecto pistón; templo de Ehécatl hallado al construir Pino Suárez (tres estaciones adelante en Línea 1). Verificar antes de producción: "el tren de las doce".
 - Kevin, Don Pepe, Doña Chelo y Michu **no** aparecen. Sin antagonista.
 
+### Episodio 6 — El Sabor Secreto de la Abuela
+
+- **Misterio cálido, sin antagonista.** La Abuela prepara tamales de frijol para la comida familiar del domingo; en su libreta de recetas (esquinas dobladas, harina, una mancha de mole) falta una palabra: "epazote". Ajolote la lee y nombra el caso: "el Misterio del Sabor Secreto de la Abuela".
+- La receta viene de **la mamá de la Abuela**, quien le enseñó a doblar las hojas de maíz; la Abuela cuenta que de niña sus tamales salían chuecos. Don Pepe se acuerda de esos tamales ("SIEMPRE se acababan").
+- **Patio de la vecindad** (macetas en botes de lata, cubetas y una tina): ahí crecen hierbabuena, cilantro y epazote. Ajolote lo encuentra comparando el olor del frasco seco con las plantas. La Abuela le pide cortar solo las hojitas de arriba, sin arrancar la planta.
+- Gelatina de fresa con fresas de verdad (el "otro secreto" de la Abuela). Ajolote corta las fresas con ayuda de la Abuela.
+- Ajolote escribe "epazote" en la libreta de la familia, debajo de la mancha ("letra de superhéroe"). Xolo: "Son cuatro sílabas, no una ceremonia."
+- Fernanda, Kevin y Doña Chelo **no** aparecen. Don Pepe sí (ayuda en la cocina).
+
+### Episodio 7 — El Misterio de la Chinampa Flotante
+
+- **Episodio especial: Xochimilco.** Primera salida de la Colonia Doctores al sur de la ciudad; van con la Abuela (acompañante), en dos camiones (**Xolo no entra al Metro**, Ep. 5).
+- **Personaje nuevo: Don Chuy**, trajinero (30 años en el oficio), sombrero de palma y pértiga larguísima. Su trajinera azul es la **Lupita**, por su mamá, dueña de una chinampa (lechuga, acelga, cilantro, cempasúchil). Tiene un hermano. Primera vez que oye hablar a un perro: "Se acostumbra uno." Reutilizable.
+- **Explicación natural:** la "chinampa flotante" es un tapete de lirio acuático a la deriva por el viento; no los seguía, iban en la misma dirección. Fernanda lo deduce con un experimento; Xolo siente el viento por no tener pelo. Una garza ("la capitana") viaja encima y entre las hojas hay una mamá gallareta con pollitos. El título es "falso a medias": "Flota. Pero no es chinampa."
+- **El ajolote real queda presentado aquí.** Ajolote ve uno durante tres segundos (oscuro, con pintitas doradas; no se habla de su color). Dice que es "super chido". Don Chuy explica que viven en los canales de Xochimilco, son tímidos, anfibios, conservan sus plumitas (branquias) de bebé, regeneran patitas, el nombre viene de *axólotl* (xólotl = misma raíz que Xoloitzcuintle) y ya quedan pocos. Xolo y Ajolote: "Somos de la misma sílaba." Xolo es el primero en ver al ajolote.
+- **Billete de cincuenta pesos** (reverso: ajolote, chinampas, ahuejotes): la Abuela se lo da "para lo que se ofrezca"; era para la alcancía "desde el principio". Es el **primer ahorro de Ajolote desde el Ep. 3** (el botón por fin tiene compañía). Sigue debiéndole seis pesos a Fernanda (Ep. 5).
+- **Momento ambiguo de "poderes":** Ajolote predice dónde se detendrá la isla y acierta. Xolo: "...Espera." Luego: "Viento más árbol. Es matemáticas."
+- **Fernanda se equivoca por primera vez** (su libreta decía "las chinampas flotan"). Su miedo a equivocarse frente a los demás; Ajolote le devuelve su frase del Ep. 5: "¿Los detectives pueden equivocarse?" / "Las buenas sí." Su libreta se queda cerrada ante el ajolote (maravilla genuina). Solo ella anota.
+- **Tema emocional lateral (Ep. 4):** Ajolote concluye que el ajolote "nunca está muy grande para nada"; Xolo no hace chiste. Sin resolver explícitamente.
+- **Cierre:** Don Chuy regala un chapín (cuadrito de lodo con lechuguitas); lo siembran en una lata en el patio de la vecindad (eco del Ep. 6). Ajolote dice que le contará a todo el mundo que los ajolotes existen (Xolo: "Qué peligroso"), semilla para el Ep. 8.
+- Datos educativos: las chinampas no flotan (las sostienen las raíces de los ahuejotes), tierra de lodo del fondo del canal, chapines, lirio acuático invasor, trajineras con nombre de mujer, ajolote (ver arriba).
+- Kevin, Don Pepe, Doña Chelo y Michu **no** aparecen. Sin antagonista.
+
 ## Lugares Usados
 
 - Colonia Doctores (calles del barrio, mercado, vecindad) — Episodio 1.
@@ -72,6 +95,8 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Colonia Doctores (vecindad, puerta de Fernanda, puesto de Don Pepe, calles del barrio, puerta de Doña Chelo) — Episodio 3.
 - Colonia Doctores (vecindad, puesto de Don Pepe, esquina de Kevin) y **Arena México / calle Doctor Lavista** (puestos de máscaras de los viernes, puesto de Don Beto) — Episodio 4.
 - **Metro Balderas** (boca de la estación con jardinera, vestíbulo/taquillas, torniquetes, andén de Línea 1) y vecindad — Episodio 5. Se mencionan Pino Suárez y la Ciudadela.
+- Vecindad (cocina y patio con macetas) — Episodio 6.
+- **Xochimilco** (embarcadero, canales, chinampa de la mamá de Don Chuy, ahuejote con raíces) y vecindad (patio) — Episodio 7.
 
 ## Temas Educativos Usados
 
@@ -81,6 +106,8 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Día de Muertos (el cempasúchil: origen náhuatl del nombre, guía de las almas, caminito de pétalos) — Episodio 3.
 - Lucha libre a fondo (Arena México 1933, la máscara como identidad, luchas de apuestas / máscara contra cabellera, técnicos vs. rudos, El Santo, origen de la máscara) — Episodio 4.
 - El Metro (pictogramas y su razón, el cañón de Balderas / la Ciudadela, efecto pistón del aire en los túneles, templo de Ehécatl en Pino Suárez) — Episodio 5.
+- Comida mexicana y tradiciones familiares (epazote, tamales de frijol, gelatina con fresas, receta heredada) — Episodio 6.
+- Chinampas / ecología (no flotan, ahuejotes, lodo del canal, chapines, lirio acuático invasor) y animales locales (el ajolote real: dónde vive, anfibio, branquias, regeneración, origen del nombre, en peligro) — Episodio 7.
 
 ## Personajes Secundarios Usados (rotación)
 
@@ -94,8 +121,12 @@ Registro de hechos, relaciones, chistes recurrentes, lugares y temas ya usados e
 - Don Beto (mascarero de la Arena México) — Episodio 4 (incidental, reutilizable).
 - Fernanda — regresa en el Episodio 5 (papel central: deduce la explicación).
 - Don Ramón (limpieza nocturna, Metro Balderas) — Episodio 5 (nuevo, reutilizable). Su hijo Toño solo se menciona.
+- Don Pepe — regresa en el Episodio 6 (ayuda en la cocina de la Abuela).
+- Fernanda — regresa en el Episodio 7 (papel central: experimento y deducción; primera vez que se equivoca).
+- Don Chuy (trajinero de Xochimilco, trajinera Lupita) — Episodio 7 (nuevo, reutilizable). Su mamá y su hermano solo se mencionan.
 
 ## Antagonistas / Fricción Usados
 
 - Episodios 1-3: sin antagonista ni fricción (origen, malentendido, misión de ayuda).
 - Episodio 4: primera fricción leve — Kevin como **falsa sospecha** (Ajolote lo acusa y se equivoca). Kevin no es antagonista real: termina ayudando. Regla del índice: Kevin no debe aparecer en el Episodio 5.
+- Episodios 5-7: sin antagonista ni fricción (explicación natural, misterio cálido, explicación natural).

@@ -12,17 +12,17 @@
 | 4 | [La Máscara Perdida de Arena México](004-la-mascara-perdida-de-arena-mexico.md) | Colonia Doctores (mercado, esquina de Kevin, Arena México / Dr. Lavista) | Lucha libre | Malentendido (falsa sospecha) | Narrador, Ajolote Azul, Xolo, Abuela, Don Pepe, Kevin, Don Beto (nuevo, incidental) | No |
 | 5 | [El Fantasma del Metro Balderas](005-el-fantasma-del-metro-balderas.md) | Metro Balderas (boca de la estación, vestíbulo, andén) / vecindad | El Metro | Explicación natural | Narrador, Ajolote Azul, Xolo, Abuela, Fernanda, Don Ramón (nuevo) | No |
 | 6 | [El Sabor Secreto de la Abuela](006-el-sabor-secreto-de-la-abuela.md) | Vecindad (cocina) | Comida mexicana (epazote, tamales, gelatina) / tradiciones familiares | Misterio cálido, sin antagonista | Narrador, Ajolote Azul, Xolo, Abuela, Don Pepe | No |
+| 7 | [El Misterio de la Chinampa Flotante](007-el-misterio-de-la-chinampa-flotante.md) | Xochimilco (embarcadero, canales, chinampa) / vecindad | Chinampas / ecología + el ajolote real (primera presentación) | Explicación natural | Narrador, Ajolote Azul, Xolo, Abuela, Fernanda, Don Chuy (nuevo) | Sí |
 
-## Episodios Planeados (7-12)
+## Episodios Planeados (8-12)
 
 Temporada 1 definida en 12 episodios. Orden pensado para repartir los 3 episodios "especiales" (P7, P10, P12) a lo largo de la temporada en vez de agruparlos, y para que Kevin (fricción leve) no aparezca en episodios seguidos.
 
 | # | Título tentativo | Lugar | Tema educativo | Tipo de misterio | Personajes | ¿Especial? |
 |---|---|---|---|---|---|---|
-| 7 | El Misterio de la Chinampa Flotante | Xochimilco | Chinampas / ecología | Explicación natural | Fernanda, trajinero (nuevo) | Sí |
-| 8 | El Ajolote Que No Era Azul | Mercado / tianguis | Animales locales (el ajolote real) | Cuasi-antagonista (vendedor desinformado) | Xolo, vendedor (nuevo) | No |
+| 8 | El Ajolote Que No Era Azul | Mercado / tianguis | Animales locales (el ajolote real; ya presentado en el Ep. 7, así que aquí Ajolote es "experto" y puede desmentir al vendedor) | Cuasi-antagonista (vendedor desinformado) | Xolo, vendedor (nuevo) | No |
 | 9 | Las Huellas en la Azotea | Vecindad (azotea) | Arquitectura local | Misterio doméstico ligero | Doña Chelo, Abuela | No |
-| 10 | La Persecución en Chapultepec | Chapultepec | Geografía / fauna urbana | Antagonista leve + explicación natural | Fernanda, Kevin (acusa a Ajolote) | Sí |
+| 10 | La Persecución en Chapultepec (pinata?) | Chapultepec | Geografía / fauna urbana | Antagonista leve + explicación natural | Fernanda, Kevin (acusa a Ajolote) | Sí |
 | 11 | ¿Quién se Está Robando el Agua del Jardín? | Vecindad / jardín comunitario | Agua en la CDMX | Explicación técnica | Don Pepe o plomero (nuevo), Abuela | No |
 | 12 | El Cofre del Templo Mayor | Museo / Templo Mayor | Los aztecas/mexicas | Malentendido institucional | Fernanda, Kevin, guía de museo (nuevo) | Sí |
 
